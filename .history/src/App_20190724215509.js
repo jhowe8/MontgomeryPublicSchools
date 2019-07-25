@@ -33,7 +33,7 @@ export default function App() {
       <ReactMapGL 
         {...viewport}
         mapboxApiAccessToken={"pk.eyJ1IjoianNob3dlOCIsImEiOiJjanloeTgzZ2owMGQwM2Nyemxwb2x1amVvIn0.oRg3u4UCMX_v6HjCMiMJYw"}
-        mapStyle="mapbox://styles/jshowe8/cjyi1cigd06u51cqv66kj16iy"
+        mapStyle="mapbox://styles/jshowe8/cjyhyques04e41clpog7nq9mr"
         onViewportChange={viewport => {
           setViewport(viewport)
         }}
@@ -62,8 +62,7 @@ export default function App() {
           >
             <div>
               <h2>{selectedSchool.properties.name}</h2>
-              <p>{selectedSchool.properties.address} {selectedSchool.properties.city}, MD {selectedSchool.properties.zip}</p>
-              <p>Phone: {selectedSchool.properties.phone}</p>
+              <p>{selectedSchool.properties.address}</p>
             </div>
           </Popup>
         ) : null}
