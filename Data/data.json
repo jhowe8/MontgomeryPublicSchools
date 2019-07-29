@@ -1,0 +1,1224 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "772q-4wm8",
+      "name" : "Public Schools",
+      "attribution" : "Montgomery County, MD",
+      "averageRating" : 0,
+      "category" : "Education",
+      "createdAt" : 1330542829,
+      "description" : "Address and Locations of all Public Schools in Montgomery County, MD.",
+      "displayType" : "table",
+      "downloadCount" : 1653,
+      "hideFromCatalog" : false,
+      "hideFromDataJson" : false,
+      "iconUrl" : "fileId:rvhBeI1RffutDpzrFjhKY5Xpu1EE26Wbxjnip32wzd0",
+      "indexUpdatedAt" : 1423495946,
+      "licenseId" : "PUBLIC_DOMAIN",
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 1074939,
+      "provenance" : "official",
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1347566411,
+      "publicationGroup" : 290865,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "rowsUpdatedAt" : 1347566075,
+      "rowsUpdatedBy" : "yr5d-z7h2",
+      "tableId" : 425578,
+      "totalTimesRated" : 0,
+      "viewCount" : 1738,
+      "viewLastModified" : 1432830772,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : 17783816,
+        "name" : "CATEGORY",
+        "dataTypeName" : "text",
+        "description" : "Type of School (\"HIGH SCHOOLS\", \"MIDDLE SCHOOLS\", or \"ELEMENTARY SCHOOLS\")",
+        "fieldName" : "category",
+        "position" : 1,
+        "renderTypeName" : "text",
+        "tableColumnId" : 2175449,
+        "width" : 196,
+        "cachedContents" : {
+          "non_null" : 200,
+          "largest" : "MIDDLE SCHOOLS",
+          "null" : 0,
+          "top" : [ {
+            "item" : "HIGH SCHOOLS",
+            "count" : 20
+          }, {
+            "item" : "ELEMENTARY SCHOOLS",
+            "count" : 19
+          }, {
+            "item" : "MIDDLE SCHOOLS",
+            "count" : 18
+          } ],
+          "smallest" : "ELEMENTARY SCHOOLS"
+        },
+        "format" : {
+          "align" : "left"
+        }
+      }, {
+        "id" : 17783817,
+        "name" : "SCHOOL NAME",
+        "dataTypeName" : "text",
+        "description" : "Name of the Public School",
+        "fieldName" : "school_name",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 2175450,
+        "width" : 232,
+        "cachedContents" : {
+          "non_null" : 200,
+          "largest" : "Wyngate ES",
+          "null" : 0,
+          "top" : [ {
+            "item" : "New Hampshire Estates ES",
+            "count" : 20
+          }, {
+            "item" : "Roscoe R Nix ES",
+            "count" : 19
+          }, {
+            "item" : "White Oak MS",
+            "count" : 18
+          }, {
+            "item" : "Springbrook HS",
+            "count" : 17
+          }, {
+            "item" : "Westover ES",
+            "count" : 16
+          }, {
+            "item" : "Cannon Road ES (Construction)",
+            "count" : 15
+          }, {
+            "item" : "William T Page ES",
+            "count" : 14
+          }, {
+            "item" : "Jackson Road ES",
+            "count" : 13
+          }, {
+            "item" : "Galway ES",
+            "count" : 12
+          }, {
+            "item" : "Greencastle ES",
+            "count" : 11
+          }, {
+            "item" : "Stonegate ES",
+            "count" : 10
+          }, {
+            "item" : "Cloverly ES",
+            "count" : 9
+          }, {
+            "item" : "Cannon Road ES (at Fairland Center)",
+            "count" : 8
+          }, {
+            "item" : "Briggs Chaney MS",
+            "count" : 7
+          }, {
+            "item" : "James Hubert Blake HS",
+            "count" : 6
+          }, {
+            "item" : "Fairland ES",
+            "count" : 5
+          }, {
+            "item" : "Dr Charles R Drew ES",
+            "count" : 4
+          }, {
+            "item" : "Argyle MS",
+            "count" : 3
+          }, {
+            "item" : "A Mario Loiederman MS",
+            "count" : 2
+          }, {
+            "item" : "Wheaton HS",
+            "count" : 1
+          } ],
+          "smallest" : "Albert Einstein HS"
+        },
+        "format" : {
+          "align" : "left"
+        }
+      }, {
+        "id" : 17783818,
+        "name" : "ADDRESS",
+        "dataTypeName" : "text",
+        "description" : "Street Address of the Public School",
+        "fieldName" : "address",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 2175451,
+        "width" : 184,
+        "cachedContents" : {
+          "non_null" : 200,
+          "largest" : "9930 Moyer Rd",
+          "null" : 0,
+          "top" : [ {
+            "item" : "8720 Carroll Ave",
+            "count" : 20
+          }, {
+            "item" : "1100 Corliss St",
+            "count" : 19
+          }, {
+            "item" : "12201 New Hampshire Ave",
+            "count" : 18
+          }, {
+            "item" : "201 Valley Brook Dr",
+            "count" : 17
+          }, {
+            "item" : "401 Hawkesbury La",
+            "count" : 16
+          }, {
+            "item" : "901 Cannon Rd",
+            "count" : 15
+          }, {
+            "item" : "13400 Tamarack Rd",
+            "count" : 14
+          }, {
+            "item" : "900 Jackson Rd",
+            "count" : 13
+          }, {
+            "item" : "12612 Galway Dr",
+            "count" : 12
+          }, {
+            "item" : "13611 Robey Rd",
+            "count" : 11
+          }, {
+            "item" : "14811 Notley Rd",
+            "count" : 10
+          }, {
+            "item" : "800 Briggs Chaney Rd",
+            "count" : 9
+          }, {
+            "item" : "13313 Old Columbia Pike",
+            "count" : 8
+          }, {
+            "item" : "1901 Rainbow Dr",
+            "count" : 7
+          }, {
+            "item" : "300 Norwood Rd",
+            "count" : 6
+          }, {
+            "item" : "14315 Fairdale Rd",
+            "count" : 5
+          }, {
+            "item" : "1200 Swingingdale Dr",
+            "count" : 4
+          }, {
+            "item" : "2400 Bel Pre Rd",
+            "count" : 3
+          }, {
+            "item" : "12701 Goodhill Rd",
+            "count" : 2
+          }, {
+            "item" : "12601 Dalewood Dr",
+            "count" : 1
+          } ],
+          "smallest" : "1000 First St"
+        },
+        "format" : {
+          "align" : "left"
+        }
+      }, {
+        "id" : 17783819,
+        "name" : "CITY",
+        "dataTypeName" : "text",
+        "description" : "City for the Public School",
+        "fieldName" : "city",
+        "position" : 4,
+        "renderTypeName" : "text",
+        "tableColumnId" : 2175452,
+        "width" : 148,
+        "cachedContents" : {
+          "non_null" : 200,
+          "largest" : "Takoma Park",
+          "null" : 0,
+          "top" : [ {
+            "item" : "Bethesda",
+            "count" : 20
+          }, {
+            "item" : "Chevy Chase",
+            "count" : 19
+          }, {
+            "item" : "Olney",
+            "count" : 18
+          }, {
+            "item" : "Brookeville",
+            "count" : 17
+          }, {
+            "item" : "Poolesville",
+            "count" : 16
+          }, {
+            "item" : "Dickerson",
+            "count" : 15
+          }, {
+            "item" : "Rockville",
+            "count" : 14
+          }, {
+            "item" : "Potomac",
+            "count" : 13
+          }, {
+            "item" : "Derwood",
+            "count" : 12
+          }, {
+            "item" : "Sandy Spring",
+            "count" : 11
+          }, {
+            "item" : "Burtonsville",
+            "count" : 10
+          }, {
+            "item" : "Clarksburg",
+            "count" : 9
+          }, {
+            "item" : "Damascus",
+            "count" : 8
+          }, {
+            "item" : "Germantown",
+            "count" : 7
+          }, {
+            "item" : "Gaithersburg",
+            "count" : 6
+          }, {
+            "item" : "North Potomac",
+            "count" : 5
+          }, {
+            "item" : "Laytonsville",
+            "count" : 4
+          }, {
+            "item" : "Montgomery Village",
+            "count" : 3
+          }, {
+            "item" : "Kensington",
+            "count" : 2
+          }, {
+            "item" : "Garrett Park",
+            "count" : 1
+          } ],
+          "smallest" : "Bethesda"
+        },
+        "format" : {
+          "align" : "left"
+        }
+      }, {
+        "id" : 17783820,
+        "name" : "ZIP CODE",
+        "dataTypeName" : "number",
+        "description" : "5 digit postal Zip Code for the Public School",
+        "fieldName" : "zip_code",
+        "position" : 5,
+        "renderTypeName" : "number",
+        "tableColumnId" : 2175453,
+        "width" : 196,
+        "cachedContents" : {
+          "non_null" : 200,
+          "average" : "20871.365",
+          "largest" : "20912",
+          "null" : 0,
+          "top" : [ {
+            "item" : "20814",
+            "count" : 20
+          }, {
+            "item" : "20815",
+            "count" : 19
+          }, {
+            "item" : "20816",
+            "count" : 18
+          }, {
+            "item" : "20817",
+            "count" : 17
+          }, {
+            "item" : "20832",
+            "count" : 16
+          }, {
+            "item" : "20833",
+            "count" : 15
+          }, {
+            "item" : "20837",
+            "count" : 14
+          }, {
+            "item" : "20842",
+            "count" : 13
+          }, {
+            "item" : "20850",
+            "count" : 12
+          }, {
+            "item" : "20851",
+            "count" : 11
+          }, {
+            "item" : "20852",
+            "count" : 10
+          }, {
+            "item" : "20853",
+            "count" : 9
+          }, {
+            "item" : "20854",
+            "count" : 8
+          }, {
+            "item" : "20855",
+            "count" : 7
+          }, {
+            "item" : "20860",
+            "count" : 6
+          }, {
+            "item" : "20866",
+            "count" : 5
+          }, {
+            "item" : "20871",
+            "count" : 4
+          }, {
+            "item" : "20872",
+            "count" : 3
+          }, {
+            "item" : "20874",
+            "count" : 2
+          }, {
+            "item" : "20876",
+            "count" : 1
+          } ],
+          "smallest" : "20814",
+          "sum" : "4174273"
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "noCommas" : "true",
+          "align" : "right"
+        }
+      }, {
+        "id" : 17783821,
+        "name" : "PHONE",
+        "dataTypeName" : "text",
+        "description" : "Primary telephone number for the Public School",
+        "fieldName" : "phone",
+        "position" : 6,
+        "renderTypeName" : "text",
+        "tableColumnId" : 2175454,
+        "width" : 160,
+        "cachedContents" : {
+          "non_null" : 200,
+          "largest" : "301-989-6030",
+          "null" : 0,
+          "top" : [ {
+            "item" : "301-431-7607",
+            "count" : 20
+          }, {
+            "item" : "301-422-5070",
+            "count" : 19
+          }, {
+            "item" : "301-989-5780",
+            "count" : 18
+          }, {
+            "item" : "301-989-5700",
+            "count" : 17
+          }, {
+            "item" : "301-989-5676",
+            "count" : 16
+          }, {
+            "item" : "301-989-5662",
+            "count" : 15
+          }, {
+            "item" : "301-989-5672",
+            "count" : 14
+          }, {
+            "item" : "301-989-5650",
+            "count" : 13
+          }, {
+            "item" : "301-595-2930",
+            "count" : 12
+          }, {
+            "item" : "301-595-2940",
+            "count" : 11
+          }, {
+            "item" : "301-989-5668",
+            "count" : 10
+          }, {
+            "item" : "301-989-5770",
+            "count" : 9
+          }, {
+            "item" : "301-989-6000",
+            "count" : 8
+          }, {
+            "item" : "301-879-1300",
+            "count" : 7
+          }, {
+            "item" : "301-989-5658",
+            "count" : 6
+          }, {
+            "item" : "301-989-6030",
+            "count" : 5
+          }, {
+            "item" : "301-460-2400",
+            "count" : 4
+          }, {
+            "item" : "301-929-2282",
+            "count" : 3
+          }, {
+            "item" : "301-929-2050",
+            "count" : 2
+          }, {
+            "item" : "301-929-2165",
+            "count" : 1
+          } ],
+          "smallest" : "240-406-1300"
+        },
+        "format" : {
+          "align" : "left"
+        }
+      }, {
+        "id" : 17783822,
+        "name" : "URL",
+        "dataTypeName" : "text",
+        "description" : "Internet address (URL) for the Public School's website",
+        "fieldName" : "url",
+        "position" : 7,
+        "renderTypeName" : "text",
+        "tableColumnId" : 2175455,
+        "width" : 136,
+        "cachedContents" : {
+          "non_null" : 200,
+          "largest" : "http://www.montgomeryschoolsmd.org/schools/wyngatees",
+          "null" : 0,
+          "top" : [ {
+            "item" : "http://www.montgomeryschoolsmd.org/schools/nhees",
+            "count" : 20
+          }, {
+            "item" : "http://www.montgomeryschoolsmd.org/schools/nixes",
+            "count" : 19
+          }, {
+            "item" : "http://www.montgomeryschoolsmd.org/schools/whiteoakms",
+            "count" : 18
+          }, {
+            "item" : "http://www.montgomeryschoolsmd.org/schools/springbrookhs",
+            "count" : 17
+          }, {
+            "item" : "http://www.montgomeryschoolsmd.org/schools/westoveres",
+            "count" : 16
+          }, {
+            "item" : "http://www.montgomeryschoolsmd.org/schools/cannonroades",
+            "count" : 15
+          }, {
+            "item" : "http://www.montgomeryschoolsmd.org/schools/pagees",
+            "count" : 14
+          }, {
+            "item" : "http://www.montgomeryschoolsmd.org/schools/jacksonroades",
+            "count" : 13
+          }, {
+            "item" : "http://www.montgomeryschoolsmd.org/schools/galwayes",
+            "count" : 12
+          }, {
+            "item" : "http://www.montgomeryschoolsmd.org/schools/greencastlees",
+            "count" : 11
+          }, {
+            "item" : "http://www.montgomeryschoolsmd.org/schools/stonegatees",
+            "count" : 10
+          }, {
+            "item" : "http://www.montgomeryschoolsmd.org/schools/cloverlyes",
+            "count" : 9
+          }, {
+            "item" : "http://www.montgomeryschoolsmd.org/schools/briggschaneyms",
+            "count" : 8
+          }, {
+            "item" : "http://www.montgomeryschoolsmd.org/schools/blakehs",
+            "count" : 7
+          }, {
+            "item" : "http://www.montgomeryschoolsmd.org/schools/fairlandes",
+            "count" : 6
+          }, {
+            "item" : "http://www.montgomeryschoolsmd.org/schools/drewes",
+            "count" : 5
+          }, {
+            "item" : "http://www.montgomeryschoolsmd.org/schools/argylems",
+            "count" : 4
+          }, {
+            "item" : "http://www.montgomeryschoolsmd.org/schools/loiedermanms",
+            "count" : 3
+          }, {
+            "item" : "http://www.montgomeryschoolsmd.org/schools/wheatonhs",
+            "count" : 2
+          }, {
+            "item" : "http://www.montgomeryschoolsmd.org/schools/viersmilles",
+            "count" : 1
+          } ],
+          "smallest" : "http://www.mbhs.edu"
+        },
+        "format" : {
+          "align" : "left"
+        }
+      }, {
+        "id" : 17783823,
+        "name" : "LONGITUDE",
+        "dataTypeName" : "number",
+        "description" : "Longitude location for the Public School",
+        "fieldName" : "longitude",
+        "position" : 8,
+        "renderTypeName" : "number",
+        "tableColumnId" : 2175456,
+        "width" : 208,
+        "cachedContents" : {
+          "non_null" : 200,
+          "average" : "-77.1277933987695",
+          "largest" : "-76.9364158921",
+          "null" : 0,
+          "top" : [ {
+            "item" : "-76.9923045793",
+            "count" : 20
+          }, {
+            "item" : "-76.9896552883",
+            "count" : 19
+          }, {
+            "item" : "-76.9953329495",
+            "count" : 18
+          }, {
+            "item" : "-77.0056814998",
+            "count" : 17
+          }, {
+            "item" : "-77.0180223922",
+            "count" : 16
+          }, {
+            "item" : "-76.9941729238",
+            "count" : 15
+          }, {
+            "item" : "-76.9835905797",
+            "count" : 14
+          }, {
+            "item" : "-76.9918070316",
+            "count" : 13
+          }, {
+            "item" : "-76.9463103201",
+            "count" : 12
+          }, {
+            "item" : "-76.9417549222",
+            "count" : 11
+          }, {
+            "item" : "-77.0157475178",
+            "count" : 10
+          }, {
+            "item" : "-76.9942569561",
+            "count" : 9
+          }, {
+            "item" : "-76.9578934897",
+            "count" : 8
+          }, {
+            "item" : "-76.9714624882",
+            "count" : 7
+          }, {
+            "item" : "-77.0175061321",
+            "count" : 6
+          }, {
+            "item" : "-76.9561706003",
+            "count" : 5
+          }, {
+            "item" : "-76.9871082262",
+            "count" : 4
+          }, {
+            "item" : "-77.048924226",
+            "count" : 3
+          }, {
+            "item" : "-77.0708351501",
+            "count" : 2
+          }, {
+            "item" : "-77.0666690813",
+            "count" : 1
+          } ],
+          "smallest" : "-77.4187801451",
+          "sum" : "-15425.5586797539"
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "noCommas" : "false",
+          "align" : "right"
+        }
+      }, {
+        "id" : 17783824,
+        "name" : "LATITUDE",
+        "dataTypeName" : "number",
+        "description" : "Latitude location for the Public School",
+        "fieldName" : "latitude",
+        "position" : 9,
+        "renderTypeName" : "number",
+        "tableColumnId" : 2175457,
+        "width" : 196,
+        "cachedContents" : {
+          "non_null" : 200,
+          "average" : "39.091366305075",
+          "largest" : "39.285505588",
+          "null" : 0,
+          "top" : [ {
+            "item" : "38.9981968148",
+            "count" : 20
+          }, {
+            "item" : "39.0168668083",
+            "count" : 19
+          }, {
+            "item" : "39.0565217301",
+            "count" : 18
+          }, {
+            "item" : "39.0578019375",
+            "count" : 17
+          }, {
+            "item" : "39.0748642774",
+            "count" : 16
+          }, {
+            "item" : "39.0687671595",
+            "count" : 15
+          }, {
+            "item" : "39.0749086167",
+            "count" : 14
+          }, {
+            "item" : "39.0564225207",
+            "count" : 13
+          }, {
+            "item" : "39.0639572983",
+            "count" : 12
+          }, {
+            "item" : "39.0804194508",
+            "count" : 11
+          }, {
+            "item" : "39.0995467662",
+            "count" : 10
+          }, {
+            "item" : "39.1076890075",
+            "count" : 9
+          }, {
+            "item" : "39.0746038591",
+            "count" : 8
+          }, {
+            "item" : "39.1097896862",
+            "count" : 7
+          }, {
+            "item" : "39.1133304559",
+            "count" : 6
+          }, {
+            "item" : "39.0906439188",
+            "count" : 5
+          }, {
+            "item" : "39.0916281714",
+            "count" : 4
+          }, {
+            "item" : "39.0895212498",
+            "count" : 3
+          }, {
+            "item" : "39.065306494",
+            "count" : 2
+          }, {
+            "item" : "39.0613378725",
+            "count" : 1
+          } ],
+          "smallest" : "38.9584710865",
+          "sum" : "7818.2732610150"
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "noCommas" : "false",
+          "align" : "right"
+        }
+      }, {
+        "id" : 17783825,
+        "name" : "LOCATION",
+        "dataTypeName" : "location",
+        "description" : "Location field generated to indicate the location of the Public School on a map",
+        "fieldName" : "location",
+        "position" : 10,
+        "renderTypeName" : "location",
+        "tableColumnId" : 2175458,
+        "width" : 196,
+        "cachedContents" : {
+          "non_null" : 200,
+          "largest" : {
+            "latitude" : "39.265783191",
+            "human_address" : "{\"address\":\"9930 Moyer Rd\",\"city\":\"Damascus\",\"state\":\"MD\",\"zip\":\"20872\"}",
+            "longitude" : "-77.2073011632"
+          },
+          "null" : 0,
+          "top" : [ {
+            "item" : {
+              "latitude" : "38.9981968148",
+              "human_address" : "{\"address\":\"8720 Carroll Ave\",\"city\":\"Silver Spring\",\"state\":\"MD\",\"zip\":\"20903\"}",
+              "longitude" : "-76.9923045793"
+            },
+            "count" : 20
+          }, {
+            "item" : {
+              "latitude" : "39.0168668083",
+              "human_address" : "{\"address\":\"1100 Corliss St\",\"city\":\"Silver Spring\",\"state\":\"MD\",\"zip\":\"20903\"}",
+              "longitude" : "-76.9896552883"
+            },
+            "count" : 19
+          }, {
+            "item" : {
+              "latitude" : "39.0565217301",
+              "human_address" : "{\"address\":\"12201 New Hampshire Ave\",\"city\":\"Silver Spring\",\"state\":\"MD\",\"zip\":\"20904\"}",
+              "longitude" : "-76.9953329495"
+            },
+            "count" : 18
+          }, {
+            "item" : {
+              "latitude" : "39.0578019375",
+              "human_address" : "{\"address\":\"201 Valley Brook Dr\",\"city\":\"Silver Spring\",\"state\":\"MD\",\"zip\":\"20904\"}",
+              "longitude" : "-77.0056814998"
+            },
+            "count" : 17
+          }, {
+            "item" : {
+              "latitude" : "39.0748642774",
+              "human_address" : "{\"address\":\"401 Hawkesbury La\",\"city\":\"Silver Spring\",\"state\":\"MD\",\"zip\":\"20904\"}",
+              "longitude" : "-77.0180223922"
+            },
+            "count" : 16
+          }, {
+            "item" : {
+              "latitude" : "39.0687671595",
+              "human_address" : "{\"address\":\"901 Cannon Rd\",\"city\":\"Silver Spring\",\"state\":\"MD\",\"zip\":\"20904\"}",
+              "longitude" : "-76.9941729238"
+            },
+            "count" : 15
+          }, {
+            "item" : {
+              "latitude" : "39.0749086167",
+              "human_address" : "{\"address\":\"13400 Tamarack Rd\",\"city\":\"Silver Spring\",\"state\":\"MD\",\"zip\":\"20904\"}",
+              "longitude" : "-76.9835905797"
+            },
+            "count" : 14
+          }, {
+            "item" : {
+              "latitude" : "39.0564225207",
+              "human_address" : "{\"address\":\"900 Jackson Rd\",\"city\":\"Silver Spring\",\"state\":\"MD\",\"zip\":\"20904\"}",
+              "longitude" : "-76.9918070316"
+            },
+            "count" : 13
+          }, {
+            "item" : {
+              "latitude" : "39.0639572983",
+              "human_address" : "{\"address\":\"12612 Galway Dr\",\"city\":\"Silver Spring\",\"state\":\"MD\",\"zip\":\"20904\"}",
+              "longitude" : "-76.9463103201"
+            },
+            "count" : 12
+          }, {
+            "item" : {
+              "latitude" : "39.0804194508",
+              "human_address" : "{\"address\":\"13611 Robey Rd\",\"city\":\"Silver Spring\",\"state\":\"MD\",\"zip\":\"20904\"}",
+              "longitude" : "-76.9417549222"
+            },
+            "count" : 11
+          }, {
+            "item" : {
+              "latitude" : "39.0995467662",
+              "human_address" : "{\"address\":\"14811 Notley Rd\",\"city\":\"Silver Spring\",\"state\":\"MD\",\"zip\":\"20904\"}",
+              "longitude" : "-77.0157475178"
+            },
+            "count" : 10
+          }, {
+            "item" : {
+              "latitude" : "39.1076890075",
+              "human_address" : "{\"address\":\"800 Briggs Chaney Rd\",\"city\":\"Silver Spring\",\"state\":\"MD\",\"zip\":\"20904\"}",
+              "longitude" : "-76.9942569561"
+            },
+            "count" : 9
+          }, {
+            "item" : {
+              "latitude" : "39.0746038591",
+              "human_address" : "{\"address\":\"13313 Old Columbia Pike\",\"city\":\"Silver Spring\",\"state\":\"MD\",\"zip\":\"20904\"}",
+              "longitude" : "-76.9578934897"
+            },
+            "count" : 8
+          }, {
+            "item" : {
+              "latitude" : "39.1097896862",
+              "human_address" : "{\"address\":\"1901 Rainbow Dr\",\"city\":\"Silver Spring\",\"state\":\"MD\",\"zip\":\"20905\"}",
+              "longitude" : "-76.9714624882"
+            },
+            "count" : 7
+          }, {
+            "item" : {
+              "latitude" : "39.1133304559",
+              "human_address" : "{\"address\":\"300 Norwood Rd\",\"city\":\"Silver Spring\",\"state\":\"MD\",\"zip\":\"20905\"}",
+              "longitude" : "-77.0175061321"
+            },
+            "count" : 6
+          }, {
+            "item" : {
+              "latitude" : "39.0906439188",
+              "human_address" : "{\"address\":\"14315 Fairdale Rd\",\"city\":\"Silver Spring\",\"state\":\"MD\",\"zip\":\"20905\"}",
+              "longitude" : "-76.9561706003"
+            },
+            "count" : 5
+          }, {
+            "item" : {
+              "latitude" : "39.0916281714",
+              "human_address" : "{\"address\":\"1200 Swingingdale Dr\",\"city\":\"Silver Spring\",\"state\":\"MD\",\"zip\":\"20905\"}",
+              "longitude" : "-76.9871082262"
+            },
+            "count" : 4
+          }, {
+            "item" : {
+              "latitude" : "39.0895212498",
+              "human_address" : "{\"address\":\"2400 Bel Pre Rd\",\"city\":\"Silver Spring\",\"state\":\"MD\",\"zip\":\"20906\"}",
+              "longitude" : "-77.048924226"
+            },
+            "count" : 3
+          }, {
+            "item" : {
+              "latitude" : "39.065306494",
+              "human_address" : "{\"address\":\"12701 Goodhill Rd\",\"city\":\"Silver Spring\",\"state\":\"MD\",\"zip\":\"20906\"}",
+              "longitude" : "-77.0708351501"
+            },
+            "count" : 2
+          }, {
+            "item" : {
+              "latitude" : "39.0613378725",
+              "human_address" : "{\"address\":\"12601 Dalewood Dr\",\"city\":\"Silver Spring\",\"state\":\"MD\",\"zip\":\"20906\"}",
+              "longitude" : "-77.0666690813"
+            },
+            "count" : 1
+          } ],
+          "smallest" : {
+            "latitude" : "39.118795239",
+            "human_address" : "{\"address\":\"1 School Dr\",\"city\":\"Gaithersburg\",\"state\":\"MD\",\"zip\":\"20878\"}",
+            "longitude" : "-77.2152401168"
+          }
+        },
+        "format" : {
+          "view" : "address_coords",
+          "align" : "left"
+        },
+        "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "license" : {
+        "name" : "Public Domain"
+      },
+      "metadata" : {
+        "thumbnail" : {
+          "page" : {
+            "filename" : "page.png-766.409.0.0.png",
+            "selection" : {
+              "width" : 766,
+              "y1" : 0,
+              "y2" : 409,
+              "x1" : 0,
+              "x2" : 766,
+              "height" : 409
+            },
+            "created" : true
+          }
+        },
+        "rdfSubject" : "0",
+        "rdfClass" : "",
+        "custom_fields" : {
+          "Dataset Information" : {
+            "Departments" : "Technology Services, Department of",
+            "Update Frequency" : "As Needed"
+          }
+        },
+        "rowIdentifier" : "0",
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        }
+      },
+      "owner" : {
+        "id" : "yr5d-z7h2",
+        "displayName" : "John Gillick",
+        "screenName" : "John Gillick",
+        "type" : "interactive"
+      },
+      "query" : {
+        "orderBys" : [ {
+          "ascending" : true,
+          "expression" : {
+            "columnId" : 17783820,
+            "type" : "column"
+          }
+        } ]
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "yr5d-z7h2",
+        "displayName" : "John Gillick",
+        "screenName" : "John Gillick",
+        "type" : "interactive"
+      },
+      "tags" : [ "schools" ],
+      "flags" : [ "default", "restorable", "restorePossibleForType" ]
+    }
+  },
+  "data" : [ [ 1, "8DC0860D-E13B-42CD-B21A-D869BD3FFE63", 1, 1330514032, "402824", 1330514032, "402824", "{\n}", "MIDDLE SCHOOLS", "Earle B. Wood MS", "14615 Bauer Dr", "Rockville", "20852", "301-460-2150", "http://www.montgomeryschoolsmd.org/schools/woodms", "-77.1075293636", "39.093294956", [ "{\"address\":\"14615 Bauer Dr\",\"city\":\"Rockville\",\"state\":\"MD\",\"zip\":\"20852\"}", "39.093294956", "-77.1075293636", null, false ] ]
+, [ 2, "19ADA283-E949-4939-AA32-E1F06030E75F", 2, 1330514032, "402824", 1330514032, "402824", "{\n}", "MIDDLE SCHOOLS", "Parkland MS", "4610 W Frankfort Dr", "Rockville", "20853", "301-438-5700", "http://www.montgomeryschoolsmd.org/schools/parklandms", "-77.0916686732", "39.0841517945", [ "{\"address\":\"4610 W Frankfort Dr\",\"city\":\"Rockville\",\"state\":\"MD\",\"zip\":\"20853\"}", "39.0841517945", "-77.0916686732", null, false ] ]
+, [ 3, "0D304544-DBAD-4B5D-B751-ACFC2CD1C9AA", 3, 1330514032, "402824", 1330514032, "402824", "{\n}", "MIDDLE SCHOOLS", "Briggs Chaney MS", "1901 Rainbow Dr", "Silver Spring", "20905", "301-989-6000", "http://www.montgomeryschoolsmd.org/schools/briggschaneyms", "-76.9714624882", "39.1097896862", [ "{\"address\":\"1901 Rainbow Dr\",\"city\":\"Silver Spring\",\"state\":\"MD\",\"zip\":\"20905\"}", "39.1097896862", "-76.9714624882", null, false ] ]
+, [ 4, "F50ADB17-9627-4477-993E-1CCA9DFC0826", 4, 1330514032, "402824", 1330514032, "402824", "{\n}", "MIDDLE SCHOOLS", "Martin Luther King MS", "13737 Wisteria Dr", "Germantown", "20874", "301-353-8080", "http://www.montgomeryschoolsmd.org/schools/mlkms", "-77.2851000471", "39.1809127605", [ "{\"address\":\"13737 Wisteria Dr\",\"city\":\"Germantown\",\"state\":\"MD\",\"zip\":\"20874\"}", "39.1809127605", "-77.2851000471", null, false ] ]
+, [ 5, "7FC0A9F1-855D-4A9E-B900-8B95E5A81B81", 5, 1330514032, "402824", 1330514032, "402824", "{\n}", "MIDDLE SCHOOLS", "Kingsview MS", "18909 Kingsview Rd", "Germantown", "20874", "301-601-4611", "http://www.montgomeryschoolsmd.org/schools/kingsviewms", "-77.2850448312", "39.1661607823", [ "{\"address\":\"18909 Kingsview Rd\",\"city\":\"Germantown\",\"state\":\"MD\",\"zip\":\"20874\"}", "39.1661607823", "-77.2850448312", null, false ] ]
+, [ 6, "B58AEF6E-D53E-4E3D-B5CA-CC68979E24E0", 6, 1330514032, "402824", 1330514032, "402824", "{\n}", "MIDDLE SCHOOLS", "Argyle MS", "2400 Bel Pre Rd", "Silver Spring", "20906", "301-460-2400", "http://www.montgomeryschoolsmd.org/schools/argylems", "-77.048924226", "39.0895212498", [ "{\"address\":\"2400 Bel Pre Rd\",\"city\":\"Silver Spring\",\"state\":\"MD\",\"zip\":\"20906\"}", "39.0895212498", "-77.048924226", null, false ] ]
+, [ 7, "D9179716-9484-41FC-A37E-A2BBF13BC2CC", 7, 1330514032, "402824", 1330514032, "402824", "{\n}", "MIDDLE SCHOOLS", "Rocky Hill MS", "22401 Brick Haven Way", "Clarksburg", "20871", "301-353-8282", "http://www.montgomeryschoolsmd.org/schools/rockyhillms", "-77.2634759958", "39.2218821148", [ "{\"address\":\"22401 Brick Haven Way\",\"city\":\"Clarksburg\",\"state\":\"MD\",\"zip\":\"20871\"}", "39.2218821148", "-77.2634759958", null, false ] ]
+, [ 8, "B68301C3-6A6A-43CB-8AD1-C3D4CD52A31E", 8, 1330514032, "402824", 1330514032, "402824", "{\n}", "MIDDLE SCHOOLS", "Neelsville MS", "11700 Neelsville Church Rd", "Germantown", "20876", "301-353-8064", "http://www.montgomeryschoolsmd.org/schools/neelsvillems", "-77.2405597451", "39.1940928847", [ "{\"address\":\"11700 Neelsville Church Rd\",\"city\":\"Germantown\",\"state\":\"MD\",\"zip\":\"20876\"}", "39.1940928847", "-77.2405597451", null, false ] ]
+, [ 9, "24613C83-9C01-41DA-A972-9F38D0DE56DF", 9, 1330514032, "402824", 1330514032, "402824", "{\n}", "MIDDLE SCHOOLS", "John T Baker MS", "25400 Oak Dr", "Damascus", "20872", "301-253-7010", "http://www.montgomeryschoolsmd.org/schools/bakerms", "-77.2187711116", "39.2741001904", [ "{\"address\":\"25400 Oak Dr\",\"city\":\"Damascus\",\"state\":\"MD\",\"zip\":\"20872\"}", "39.2741001904", "-77.2187711116", null, false ] ]
+, [ 10, "FBD0556D-659F-4B8B-8768-18C7261A1EA7", 10, 1330514032, "402824", 1330514032, "402824", "{\n}", "MIDDLE SCHOOLS", "Thomas W Pyle MS", "6311 Wilson La", "Bethesda", "20817", "301-320-6540", "http://www.montgomeryschoolsmd.org/schools/pylems", "-77.1296136734", "38.9888410039", [ "{\"address\":\"6311 Wilson La\",\"city\":\"Bethesda\",\"state\":\"MD\",\"zip\":\"20817\"}", "38.9888410039", "-77.1296136734", null, false ] ]
+, [ 11, "6D5EB1EC-B6EE-40ED-A980-4306AEACD6BC", 11, 1330514032, "402824", 1330514032, "402824", "{\n}", "MIDDLE SCHOOLS", "Westland MS", "5511 Massachusetts Ave", "Bethesda", "20816", "301-320-6515", "http://www.montgomeryschoolsmd.org/schools/westlandms", "-77.1089289733", "38.9603838716", [ "{\"address\":\"5511 Massachusetts Ave\",\"city\":\"Bethesda\",\"state\":\"MD\",\"zip\":\"20816\"}", "38.9603838716", "-77.1089289733", null, false ] ]
+, [ 12, "C76C8F56-CBAD-4A8A-B428-039335CC0B99", 12, 1330514032, "402824", 1330514032, "402824", "{\n}", "MIDDLE SCHOOLS", "North Bethesda MS", "8935 Bradmoor Dr", "Bethesda", "20817", "301-571-3883", "http://www.montgomeryschoolsmd.org/schools/northbethesdams", "-77.1248538896", "39.0045827558", [ "{\"address\":\"8935 Bradmoor Dr\",\"city\":\"Bethesda\",\"state\":\"MD\",\"zip\":\"20817\"}", "39.0045827558", "-77.1248538896", null, false ] ]
+, [ 13, "4BBC9298-3497-4E6A-A3E2-93087399D9A5", 13, 1330514032, "402824", 1330514032, "402824", "{\n}", "MIDDLE SCHOOLS", "Herbert Hoover MS (Construction)", "8810 Post Oak Rd", "Potomac", "20854", "301-469-1010", "http://www.montgomeryschoolsmd.org/schools/hooverms", "-77.1786375804", "39.0448587758", [ "{\"address\":\"8810 Post Oak Rd\",\"city\":\"Potomac\",\"state\":\"MD\",\"zip\":\"20854\"}", "39.0448587758", "-77.1786375804", null, false ] ]
+, [ 14, "1FDDF0D0-9913-4F53-8D8D-C4CDC6191AAE", 14, 1330514032, "402824", 1330514032, "402824", "{\n}", "MIDDLE SCHOOLS", "Tilden MS", "11211 Old Georgetown Rd", "Rockville", "20852", "301-230-5930", "http://www.montgomeryschoolsmd.org/schools/tildenms", "-77.1219142526", "39.038258394", [ "{\"address\":\"11211 Old Georgetown Rd\",\"city\":\"Rockville\",\"state\":\"MD\",\"zip\":\"20852\"}", "39.038258394", "-77.1219142526", null, false ] ]
+, [ 15, "5F88E0A6-6028-408F-A56A-F639CD17D0DC", 15, 1330514032, "402824", 1330514032, "402824", "{\n}", "MIDDLE SCHOOLS", "Cabin John MS", "10701 Gainsborough Rd", "Potomac", "20854", "301-469-1150", "http://www.montgomeryschoolsmd.org/schools/cabinjohnms", "-77.1720217394", "39.0315783821", [ "{\"address\":\"10701 Gainsborough Rd\",\"city\":\"Potomac\",\"state\":\"MD\",\"zip\":\"20854\"}", "39.0315783821", "-77.1720217394", null, false ] ]
+, [ 16, "1FD2A9FD-DA7A-45BD-AE22-FA9F5077E405", 16, 1330514032, "402824", 1330514032, "402824", "{\n}", "MIDDLE SCHOOLS", "Takoma Park MS", "7611 Piney Branch Rd", "Takoma Park", "20910", "301-650-6444", "http://www.montgomeryschoolsmd.org/schools/takomaparkms", "-77.0130811462", "38.9854294113", [ "{\"address\":\"7611 Piney Branch Rd\",\"city\":\"Takoma Park\",\"state\":\"MD\",\"zip\":\"20910\"}", "38.9854294113", "-77.0130811462", null, false ] ]
+, [ 17, "6F267181-4211-4973-9B03-391650998A8B", 17, 1330514032, "402824", 1330514032, "402824", "{\n}", "MIDDLE SCHOOLS", "Silver Spring International MS", "313 Wayne Ave", "Silver Spring", "20910", "301-650-6544", "http://www.montgomeryschoolsmd.org/schools/ssims", "-77.0147746936", "39.0005798316", [ "{\"address\":\"313 Wayne Ave\",\"city\":\"Silver Spring\",\"state\":\"MD\",\"zip\":\"20910\"}", "39.0005798316", "-77.0147746936", null, false ] ]
+, [ 18, "0D9B39F9-461D-4032-A5B9-0500770B8F19", 18, 1330514032, "402824", 1330514032, "402824", "{\n}", "MIDDLE SCHOOLS", "Sligo MS", "1401 Dennis Ave", "Silver Spring", "20902", "301-649-8121", "http://www.montgomeryschoolsmd.org/schools/sligoms", "-77.0328776196", "39.0267787982", [ "{\"address\":\"1401 Dennis Ave\",\"city\":\"Silver Spring\",\"state\":\"MD\",\"zip\":\"20902\"}", "39.0267787982", "-77.0328776196", null, false ] ]
+, [ 19, "32311A6D-DACF-4199-901E-6DED52E15AB2", 19, 1330514032, "402824", 1330514032, "402824", "{\n}", "MIDDLE SCHOOLS", "Francis Scott Key MS", "910 Schindler Dr", "Silver Spring", "20903", "301-422-5600", "http://www.montgomeryschoolsmd.org/schools/fskms", "-76.9922116369", "39.0276166438", [ "{\"address\":\"910 Schindler Dr\",\"city\":\"Silver Spring\",\"state\":\"MD\",\"zip\":\"20903\"}", "39.0276166438", "-76.9922116369", null, false ] ]
+, [ 20, "8FA52CD7-5AF4-4A0A-AB33-1601ED16371B", 20, 1330514032, "402824", 1330514032, "402824", "{\n}", "MIDDLE SCHOOLS", "Eastern MS", "300 E University Blv", "Silver Spring", "20901", "301-650-6650", "http://www.montgomeryschoolsmd.org/schools/easternms", "-77.0008858418", "39.0118461813", [ "{\"address\":\"300 E University Blv\",\"city\":\"Silver Spring\",\"state\":\"MD\",\"zip\":\"20901\"}", "39.0118461813", "-77.0008858418", null, false ] ]
+, [ 21, "87B48523-4186-4438-AB1E-6873F82B9D3B", 21, 1330514032, "402824", 1330514032, "402824", "{\n}", "MIDDLE SCHOOLS", "Col E Brooke Lee MS", "11800 Monticello Ave", "Silver Spring", "20902", "301-649-8100", "http://www.montgomeryschoolsmd.org/schools/leems", "-77.0307001852", "39.0496028325", [ "{\"address\":\"11800 Monticello Ave\",\"city\":\"Silver Spring\",\"state\":\"MD\",\"zip\":\"20902\"}", "39.0496028325", "-77.0307001852", null, false ] ]
+, [ 22, "E08F3F19-6075-477A-B6EF-8AE68CEDBCF8", 22, 1330514032, "402824", 1330514032, "402824", "{\n}", "MIDDLE SCHOOLS", "White Oak MS", "12201 New Hampshire Ave", "Silver Spring", "20904", "301-989-5780", "http://www.montgomeryschoolsmd.org/schools/whiteoakms", "-76.9953329495", "39.0565217301", [ "{\"address\":\"12201 New Hampshire Ave\",\"city\":\"Silver Spring\",\"state\":\"MD\",\"zip\":\"20904\"}", "39.0565217301", "-76.9953329495", null, false ] ]
+, [ 23, "232E91D8-6558-4D99-934C-0A3ADC46763B", 23, 1330514032, "402824", 1330514032, "402824", "{\n}", "MIDDLE SCHOOLS", "Forest Oak MS", "651 Saybrooke Oaks Blv", "Gaithersburg", "20877", "301-670-8242", "http://www.montgomeryschoolsmd.org/schools/forestoakms", "-77.1844656503", "39.1535621295", [ "{\"address\":\"651 Saybrooke Oaks Blv\",\"city\":\"Gaithersburg\",\"state\":\"MD\",\"zip\":\"20877\"}", "39.1535621295", "-77.1844656503", null, false ] ]
+, [ 24, "714BD6F7-BFA9-4EAE-B6C0-524AA345B31B", 24, 1330514032, "402824", 1330514032, "402824", "{\n}", "MIDDLE SCHOOLS", "John Poole MS", "17014 Tom Fox Ave", "Poolesville", "20837", "301-972-7979", "http://www.montgomeryschoolsmd.org/schools/poolems", "-77.410844519", "39.1260537267", [ "{\"address\":\"17014 Tom Fox Ave\",\"city\":\"Poolesville\",\"state\":\"MD\",\"zip\":\"20837\"}", "39.1260537267", "-77.410844519", null, false ] ]
+, [ 25, "1522EA05-7FDA-4D77-A676-7F63044AEA75", 25, 1330514032, "402824", 1330514032, "402824", "{\n}", "MIDDLE SCHOOLS", "A Mario Loiederman MS", "12701 Goodhill Rd", "Silver Spring", "20906", "301-929-2282", "http://www.montgomeryschoolsmd.org/schools/loiedermanms", "-77.0708351501", "39.065306494", [ "{\"address\":\"12701 Goodhill Rd\",\"city\":\"Silver Spring\",\"state\":\"MD\",\"zip\":\"20906\"}", "39.065306494", "-77.0708351501", null, false ] ]
+, [ 26, "FCB93A1B-D353-4D1B-94AF-0D7100CE0B8B", 26, 1330514032, "402824", 1330514032, "402824", "{\n}", "MIDDLE SCHOOLS", "Lakelands Park MS", "1200 Main St", "Gaithersburg", "20878", "301-670-1400", "http://www.montgomeryschoolsmd.org/schools/lakelandsparkms", "-77.2329591425", "39.115512598", [ "{\"address\":\"1200 Main St\",\"city\":\"Gaithersburg\",\"state\":\"MD\",\"zip\":\"20878\"}", "39.115512598", "-77.2329591425", null, false ] ]
+, [ 27, "966C0C8C-C35B-46C0-9044-82168BEAD01C", 27, 1330514032, "402824", 1330514032, "402824", "{\n}", "MIDDLE SCHOOLS", "Herbert Hoover MS (at Tilden Center)", "6300 Tilden La", "Rockville", "20852", "301-469-1010", "http://www.montgomeryschoolsmd.org/schools/hooverms", "-77.1305753352", "39.0423221394", [ "{\"address\":\"6300 Tilden La\",\"city\":\"Rockville\",\"state\":\"MD\",\"zip\":\"20852\"}", "39.0423221394", "-77.1305753352", null, false ] ]
+, [ 28, "455A3357-C407-4131-8306-E2EA95D074BB", 28, 1330514032, "402824", 1330514032, "402824", "{\n}", "MIDDLE SCHOOLS", "Benjamin Banneker MS", "14800 Perrywood Dr", "Burtonsville", "20866", "301-989-5747", "http://www.montgomeryschoolsmd.org/schools/bannekerms", "-76.948403246", "39.0960860509", [ "{\"address\":\"14800 Perrywood Dr\",\"city\":\"Burtonsville\",\"state\":\"MD\",\"zip\":\"20866\"}", "39.0960860509", "-76.948403246", null, false ] ]
+, [ 29, "D584DC2E-7CF2-4D3B-B04B-E09BEBC9239B", 29, 1330514032, "402824", 1330514032, "402824", "{\n}", "MIDDLE SCHOOLS", "William H Farquhar MS", "16915 Batchellors Forest Rd", "Olney", "20832", "301-924-3100", "http://www.montgomeryschoolsmd.org/schools/farquharms", "-77.0450643632", "39.134332601", [ "{\"address\":\"16915 Batchellors Forest Rd\",\"city\":\"Olney\",\"state\":\"MD\",\"zip\":\"20832\"}", "39.134332601", "-77.0450643632", null, false ] ]
+, [ 30, "67074219-B95B-426F-8B24-B5490768AD3D", 30, 1330514032, "402824", 1330514032, "402824", "{\n}", "MIDDLE SCHOOLS", "Rosa M Parks MS", "19200 Olney Mill Rd", "Olney", "20832", "301-924-3180", "http://www.montgomeryschoolsmd.org/schools/rosaparksms", "-77.0811949528", "39.1719982569", [ "{\"address\":\"19200 Olney Mill Rd\",\"city\":\"Olney\",\"state\":\"MD\",\"zip\":\"20832\"}", "39.1719982569", "-77.0811949528", null, false ] ]
+, [ 31, "CF61F65A-4842-4F8E-B1C5-28C5557EAC42", 31, 1330514032, "402824", 1330514032, "402824", "{\n}", "MIDDLE SCHOOLS", "Shady Grove MS", "8100 Midcounty Hwy", "Gaithersburg", "20877", "301-548-7540", "http://www.montgomeryschoolsmd.org/schools/shadygrovems", "-77.1626472824", "39.1431549327", [ "{\"address\":\"8100 Midcounty Hwy\",\"city\":\"Gaithersburg\",\"state\":\"MD\",\"zip\":\"20877\"}", "39.1431549327", "-77.1626472824", null, false ] ]
+, [ 32, "A2130448-400F-4CA2-AC3A-14A6C65ECF38", 32, 1330514032, "402824", 1330514032, "402824", "{\n}", "MIDDLE SCHOOLS", "Redland MS", "6505 Muncaster Mill Rd", "Rockville", "20855", "301-840-4680", "http://www.montgomeryschoolsmd.org/schools/redlandms", "-77.1319130755", "39.1405182884", [ "{\"address\":\"6505 Muncaster Mill Rd\",\"city\":\"Rockville\",\"state\":\"MD\",\"zip\":\"20855\"}", "39.1405182884", "-77.1319130755", null, false ] ]
+, [ 33, "A57CADAE-ACC6-4236-A220-E1E0431A70A7", 33, 1330514032, "402824", 1330514032, "402824", "{\n}", "MIDDLE SCHOOLS", "Newport Mill MS", "11311 Newport Mill Rd", "Kensington", "20895", "301-929-2244", "http://www.montgomeryschoolsmd.org/schools/newportmillms", "-77.0677974108", "39.041512287", [ "{\"address\":\"11311 Newport Mill Rd\",\"city\":\"Kensington\",\"state\":\"MD\",\"zip\":\"20895\"}", "39.041512287", "-77.0677974108", null, false ] ]
+, [ 34, "97EA3FB5-CC99-4DBE-BAB0-BF9C57003174", 34, 1330514032, "402824", 1330514032, "402824", "{\n}", "MIDDLE SCHOOLS", "Gaithersburg MS", "2 Teachers Way", "Gaithersburg", "20877", "301-840-4554", "http://www.montgomeryschoolsmd.org/schools/gaithersburgms", "-77.1875725096", "39.1437648079", [ "{\"address\":\"2 Teachers Way\",\"city\":\"Gaithersburg\",\"state\":\"MD\",\"zip\":\"20877\"}", "39.1437648079", "-77.1875725096", null, false ] ]
+, [ 35, "9076B5CB-D362-483A-8CFB-2F3A93834065", 35, 1330514032, "402824", 1330514032, "402824", "{\n}", "MIDDLE SCHOOLS", "Montgomery Village MS", "19300 Watkins Mill Rd", "Montgomery Village", "20886", "301-840-4660", "http://www.montgomeryschoolsmd.org/schools/mvms", "-77.2094293659", "39.1725103244", [ "{\"address\":\"19300 Watkins Mill Rd\",\"city\":\"Montgomery Village\",\"state\":\"MD\",\"zip\":\"20886\"}", "39.1725103244", "-77.2094293659", null, false ] ]
+, [ 36, "680EF3B5-093B-4DB6-BE8D-6A7872F2145F", 36, 1330514032, "402824", 1330514032, "402824", "{\n}", "MIDDLE SCHOOLS", "Roberto W Clemente MS", "18808 Waring Station Rd", "Germantown", "20874", "301-601-0344", "http://www.montgomeryschoolsmd.org/schools/clementems", "-77.2479808749", "39.165823052", [ "{\"address\":\"18808 Waring Station Rd\",\"city\":\"Germantown\",\"state\":\"MD\",\"zip\":\"20874\"}", "39.165823052", "-77.2479808749", null, false ] ]
+, [ 37, "C55F5A8E-BC15-4667-8548-765160245317", 37, 1330514032, "402824", 1330514032, "402824", "{\n}", "MIDDLE SCHOOLS", "Ridgeview MS", "16600 Raven Rock Dr", "Gaithersburg", "20878", "240-406-1300", "http://www.montgomeryschoolsmd.org/schools/ridgeviewms", "-77.249263077", "39.127656608", [ "{\"address\":\"16600 Raven Rock Dr\",\"city\":\"Gaithersburg\",\"state\":\"MD\",\"zip\":\"20878\"}", "39.127656608", "-77.249263077", null, false ] ]
+, [ 38, "697EA70F-09B0-409A-B7C2-628A7747DFED", 38, 1330514032, "402824", 1330514032, "402824", "{\n}", "MIDDLE SCHOOLS", "Robert Frost MS", "9201 Scott Dr", "Rockville", "20850", "301-279-3949", "http://www.montgomeryschoolsmd.org/schools/robertfrostms", "-77.1876235891", "39.0759509206", [ "{\"address\":\"9201 Scott Dr\",\"city\":\"Rockville\",\"state\":\"MD\",\"zip\":\"20850\"}", "39.0759509206", "-77.1876235891", null, false ] ]
+, [ 39, "2CD66D17-1975-4701-BA21-96C66724B8E6", 39, 1330514032, "402824", 1330514032, "402824", "{\n}", "MIDDLE SCHOOLS", "Julius West MS", "651 Great Falls Rd", "Rockville", "20850", "301-279-3979", "http://www.montgomeryschoolsmd.org/schools/westms", "-77.1638855665", "39.0767475193", [ "{\"address\":\"651 Great Falls Rd\",\"city\":\"Rockville\",\"state\":\"MD\",\"zip\":\"20850\"}", "39.0767475193", "-77.1638855665", null, false ] ]
+, [ 40, "AB49BD38-694E-4571-9408-F9292ECC4A92", 40, 1330514032, "402824", 1330514032, "402824", "{\n}", "HIGH SCHOOLS", "Richard Montgomery HS", "250 Richard Montgomery Dr", "Rockville", "20852", "301-610-8000", "http://www.montgomeryschoolsmd.org/schools/rmhs", "-77.1457297834", "39.0772920776", [ "{\"address\":\"250 Richard Montgomery Dr\",\"city\":\"Rockville\",\"state\":\"MD\",\"zip\":\"20852\"}", "39.0772920776", "-77.1457297834", null, false ] ]
+, [ 41, "272D6349-793A-453D-B5B6-2E128F5A2310", 41, 1330514032, "402824", 1330514032, "402824", "{\n}", "HIGH SCHOOLS", "Rockville HS", "2100 Baltimore Rd", "Rockville", "20851", "301-517-8105", "http://www.montgomeryschoolsmd.org/schools/rockvillehs", "-77.1182723989", "39.0863478113", [ "{\"address\":\"2100 Baltimore Rd\",\"city\":\"Rockville\",\"state\":\"MD\",\"zip\":\"20851\"}", "39.0863478113", "-77.1182723989", null, false ] ]
+, [ 42, "518271AD-4426-44FF-91FD-8CA84999CC3A", 42, 1330514032, "402824", 1330514032, "402824", "{\n}", "HIGH SCHOOLS", "Northwest HS", "13501 Richter Farm Rd", "Germantown", "20874", "301-601-4660", "http://www.montgomeryschoolsmd.org/schools/northwesths", "-77.2793294162", "39.1515925975", [ "{\"address\":\"13501 Richter Farm Rd\",\"city\":\"Germantown\",\"state\":\"MD\",\"zip\":\"20874\"}", "39.1515925975", "-77.2793294162", null, false ] ]
+, [ 43, "450659F2-F03D-481A-B9A7-94258D9804FB", 43, 1330514032, "402824", 1330514032, "402824", "{\n}", "HIGH SCHOOLS", "Walter Johnson HS", "6400 Rock Spring Dr", "Bethesda", "20814", "301-803-7100", "http://www.montgomeryschoolsmd.org/schools/wjhs", "-77.1301017226", "39.0253918855", [ "{\"address\":\"6400 Rock Spring Dr\",\"city\":\"Bethesda\",\"state\":\"MD\",\"zip\":\"20814\"}", "39.0253918855", "-77.1301017226", null, false ] ]
+, [ 44, "87DD4FE8-F4C2-4FC9-9313-04A8FC8AB002", 44, 1330514032, "402824", 1330514032, "402824", "{\n}", "HIGH SCHOOLS", "Montgomery Blair HS", "51 E University Blv", "Silver Spring", "20901", "301-649-2800", "http://www.mbhs.edu", "-77.0124342871", "39.0182729296", [ "{\"address\":\"51 E University Blv\",\"city\":\"Silver Spring\",\"state\":\"MD\",\"zip\":\"20901\"}", "39.0182729296", "-77.0124342871", null, false ] ]
+, [ 45, "A371384B-7BC8-4094-94DF-B05D6B393EDC", 45, 1330514032, "402824", 1330514032, "402824", "{\n}", "HIGH SCHOOLS", "Poolesville HS", "17501 Willard Rd", "Poolesville", "20837", "301-972-7900", "http://www.montgomeryschoolsmd.org/schools/poolesvillehs", "-77.4187801451", "39.1431033716", [ "{\"address\":\"17501 Willard Rd\",\"city\":\"Poolesville\",\"state\":\"MD\",\"zip\":\"20837\"}", "39.1431033716", "-77.4187801451", null, false ] ]
+, [ 46, "D7E9DDDF-81CF-4C6B-9CFA-782CE46B7071", 46, 1330514032, "402824", 1330514032, "402824", "{\n}", "HIGH SCHOOLS", "Watkins Mill HS", "10301 Apple Ridge Rd", "Gaithersburg", "20879", "301-840-3959", "http://www.montgomeryschoolsmd.org/schools/watkinsmillhs", "-77.215836205", "39.183966701", [ "{\"address\":\"10301 Apple Ridge Rd\",\"city\":\"Gaithersburg\",\"state\":\"MD\",\"zip\":\"20879\"}", "39.183966701", "-77.215836205", null, false ] ]
+, [ 47, "D29028A2-AA02-4C11-90F6-F81813E46A58", 47, 1330514032, "402824", 1330514032, "402824", "{\n}", "HIGH SCHOOLS", "Damascus HS", "25921 Ridge Rd", "Damascus", "20872", "301-253-7030", "http://www.montgomeryschoolsmd.org/schools/damascushs", "-77.2100198748", "39.2824956463", [ "{\"address\":\"25921 Ridge Rd\",\"city\":\"Damascus\",\"state\":\"MD\",\"zip\":\"20872\"}", "39.2824956463", "-77.2100198748", null, false ] ]
+, [ 48, "A62EF461-DA44-4E7C-909C-21546564366E", 48, 1330514032, "402824", 1330514032, "402824", "{\n}", "HIGH SCHOOLS", "Walt Whitman HS", "7100 Whittier Blv", "Bethesda", "20817", "301-320-6600", "http://www.montgomeryschoolsmd.org/schools/whitmanhs", "-77.1276727865", "38.9816307564", [ "{\"address\":\"7100 Whittier Blv\",\"city\":\"Bethesda\",\"state\":\"MD\",\"zip\":\"20817\"}", "38.9816307564", "-77.1276727865", null, false ] ]
+, [ 49, "D7EE43A5-0C48-46FD-8138-EB410ECB8DC1", 49, 1330514032, "402824", 1330514032, "402824", "{\n}", "HIGH SCHOOLS", "Bethesda-Chevy Chase HS", "4301 East West Hwy", "Bethesda", "20814", "240-497-6300", "http://www.montgomeryschoolsmd.org/schools/bcchs", "-77.0889699717", "38.9868264765", [ "{\"address\":\"4301 East West Hwy\",\"city\":\"Bethesda\",\"state\":\"MD\",\"zip\":\"20814\"}", "38.9868264765", "-77.0889699717", null, false ] ]
+, [ 50, "B6DD69F5-D64E-4096-9E43-F1ED8EA11C1A", 50, 1330514032, "402824", 1330514032, "402824", "{\n}", "HIGH SCHOOLS", "Winston Churchill HS", "11300 Gainsborough Rd", "Potomac", "20854", "301-469-1200", "http://www.montgomeryschoolsmd.org/schools/churchillhs", "-77.1731281364", "39.0443047898", [ "{\"address\":\"11300 Gainsborough Rd\",\"city\":\"Potomac\",\"state\":\"MD\",\"zip\":\"20854\"}", "39.0443047898", "-77.1731281364", null, false ] ]
+, [ 51, "3CE22D72-DDBC-45FD-900D-F11E82088E11", 51, 1330514032, "402824", 1330514032, "402824", "{\n}", "HIGH SCHOOLS", "Albert Einstein HS", "11135 Newport Mill Rd", "Kensington", "20895", "301-929-2200", "http://www.montgomeryschoolsmd.org/schools/einsteinhs", "-77.0670360163", "39.0396158925", [ "{\"address\":\"11135 Newport Mill Rd\",\"city\":\"Kensington\",\"state\":\"MD\",\"zip\":\"20895\"}", "39.0396158925", "-77.0670360163", null, false ] ]
+, [ 52, "4E01E850-6341-4744-9F8D-EA943FA37991", 52, 1330514032, "402824", 1330514032, "402824", "{\n}", "HIGH SCHOOLS", "Wheaton HS", "12601 Dalewood Dr", "Silver Spring", "20906", "301-929-2050", "http://www.montgomeryschoolsmd.org/schools/wheatonhs", "-77.0666690813", "39.0613378725", [ "{\"address\":\"12601 Dalewood Dr\",\"city\":\"Silver Spring\",\"state\":\"MD\",\"zip\":\"20906\"}", "39.0613378725", "-77.0666690813", null, false ] ]
+, [ 53, "349E77FD-636B-4136-B571-CF173CE10536", 53, 1330514032, "402824", 1330514032, "402824", "{\n}", "HIGH SCHOOLS", "John F Kennedy HS", "1901 Randolph Rd", "Silver Spring", "20902", "301-929-2100", "http://www.montgomeryschoolsmd.org/schools/kennedyhs", "-77.039027838", "39.0657502712", [ "{\"address\":\"1901 Randolph Rd\",\"city\":\"Silver Spring\",\"state\":\"MD\",\"zip\":\"20902\"}", "39.0657502712", "-77.039027838", null, false ] ]
+, [ 54, "59D713CF-9014-4350-ADA6-3C970D738A19", 54, 1330514032, "402824", 1330514032, "402824", "{\n}", "HIGH SCHOOLS", "Springbrook HS", "201 Valley Brook Dr", "Silver Spring", "20904", "301-989-5700", "http://www.montgomeryschoolsmd.org/schools/springbrookhs", "-77.0056814998", "39.0578019375", [ "{\"address\":\"201 Valley Brook Dr\",\"city\":\"Silver Spring\",\"state\":\"MD\",\"zip\":\"20904\"}", "39.0578019375", "-77.0056814998", null, false ] ]
+, [ 55, "A3B8AE40-EA00-463E-955C-17A1461CB61D", 55, 1330514032, "402824", 1330514032, "402824", "{\n}", "HIGH SCHOOLS", "Paint Branch HS", "14121 Old Columbia Pik", "Burtonsville", "20866", "301-989-5600", "http://www.montgomeryschoolsmd.org/schools/paintbranchhs", "-76.9471015401", "39.0886791828", [ "{\"address\":\"14121 Old Columbia Pik\",\"city\":\"Burtonsville\",\"state\":\"MD\",\"zip\":\"20866\"}", "39.0886791828", "-76.9471015401", null, false ] ]
+, [ 56, "AC869EB9-9B7F-4480-8A1B-3DA6A4FC15AD", 56, 1330514032, "402824", 1330514032, "402824", "{\n}", "HIGH SCHOOLS", "James Hubert Blake HS", "300 Norwood Rd", "Silver Spring", "20905", "301-879-1300", "http://www.montgomeryschoolsmd.org/schools/blakehs", "-77.0175061321", "39.1133304559", [ "{\"address\":\"300 Norwood Rd\",\"city\":\"Silver Spring\",\"state\":\"MD\",\"zip\":\"20905\"}", "39.1133304559", "-77.0175061321", null, false ] ]
+, [ 57, "A99FC95F-3750-4489-AC94-B564B1EDAE16", 57, 1330514032, "402824", 1330514032, "402824", "{\n}", "HIGH SCHOOLS", "Northwood HS", "919 University Blv W", "Silver Spring", "20901", "301-649-8088", "http://www.montgomeryschoolsmd.org/schools/northwoodhs", "-77.0224839838", "39.0356942671", [ "{\"address\":\"919 University Blv W\",\"city\":\"Silver Spring\",\"state\":\"MD\",\"zip\":\"20901\"}", "39.0356942671", "-77.0224839838", null, false ] ]
+, [ 58, "175E4634-7A7C-4BA8-BC48-F71A02AAF731", 58, 1330514032, "402824", 1330514032, "402824", "{\n}", "HIGH SCHOOLS", "Clarksburg HS", "22500 Wims Rd", "Clarksburg", "20871", "301-444-3000", "http://www.montgomeryschoolsmd.org/schools/clarksburghs", "-77.2655866221", "39.225501825", [ "{\"address\":\"22500 Wims Rd\",\"city\":\"Clarksburg\",\"state\":\"MD\",\"zip\":\"20871\"}", "39.225501825", "-77.2655866221", null, false ] ]
+, [ 59, "10A81077-FEE2-4675-BDF0-5382385D0A71", 59, 1330514032, "402824", 1330514032, "402824", "{\n}", "HIGH SCHOOLS", "Sherwood HS", "300 Olney Sandy Spring Rd", "Sandy Spring", "20860", "301-924-3200", "http://www.montgomeryschoolsmd.org/schools/sherwoodhs", "-77.018771801", "39.148342372", [ "{\"address\":\"300 Olney Sandy Spring Rd\",\"city\":\"Sandy Spring\",\"state\":\"MD\",\"zip\":\"20860\"}", "39.148342372", "-77.018771801", null, false ] ]
+, [ 60, "37F6B475-D7D2-4A61-A42B-8D6318512006", 60, 1330514032, "402824", 1330514032, "402824", "{\n}", "HIGH SCHOOLS", "Col Zadok Magruder HS", "5939 Muncaster Mill Rd", "Rockville", "20855", "301-840-4600", "http://www.montgomeryschoolsmd.org/schools/magruderhs", "-77.1188059149", "39.1313109818", [ "{\"address\":\"5939 Muncaster Mill Rd\",\"city\":\"Rockville\",\"state\":\"MD\",\"zip\":\"20855\"}", "39.1313109818", "-77.1188059149", null, false ] ]
+, [ 61, "ED1ECA39-2CBD-402F-B6F4-202096AF7851", 61, 1330514032, "402824", 1330514032, "402824", "{\n}", "HIGH SCHOOLS", "Gaithersburg HS", "314 S Frederick Ave", "Gaithersburg", "20877", "301-840-4700", "http://www.montgomeryschoolsmd.org/schools/gaithsbghs", "-77.1954776183", "39.1348394458", [ "{\"address\":\"314 S Frederick Ave\",\"city\":\"Gaithersburg\",\"state\":\"MD\",\"zip\":\"20877\"}", "39.1348394458", "-77.1954776183", null, false ] ]
+, [ 62, "81198030-D847-4326-8D76-3922593227A4", 62, 1330514032, "402824", 1330514032, "402824", "{\n}", "HIGH SCHOOLS", "Seneca Valley HS", "19401 Crystal Rock Dr", "Germantown", "20874", "301-353-8000", "http://www.montgomeryschoolsmd.org/schools/senecavalleyhs", "-77.2643319443", "39.1750937217", [ "{\"address\":\"19401 Crystal Rock Dr\",\"city\":\"Germantown\",\"state\":\"MD\",\"zip\":\"20874\"}", "39.1750937217", "-77.2643319443", null, false ] ]
+, [ 63, "BED13689-8D10-4382-BD12-97545C167753", 63, 1330514032, "402824", 1330514032, "402824", "{\n}", "HIGH SCHOOLS", "Quince Orchard HS", "15800 Quince Orchard Rd", "Gaithersburg", "20878", "301-840-4686", "http://www.montgomeryschoolsmd.org/schools/qohs", "-77.254239085", "39.1159327009", [ "{\"address\":\"15800 Quince Orchard Rd\",\"city\":\"Gaithersburg\",\"state\":\"MD\",\"zip\":\"20878\"}", "39.1159327009", "-77.254239085", null, false ] ]
+, [ 64, "4264FE55-BB9E-4963-A8A2-DD6F53CCACF3", 64, 1330514032, "402824", 1330514032, "402824", "{\n}", "HIGH SCHOOLS", "Thomas S Wootton HS", "2100 Wootton Pkw", "Rockville", "20850", "301-279-8550", "http://www.montgomeryschoolsmd.org/schools/woottonhs", "-77.1831974358", "39.0765821359", [ "{\"address\":\"2100 Wootton Pkw\",\"city\":\"Rockville\",\"state\":\"MD\",\"zip\":\"20850\"}", "39.0765821359", "-77.1831974358", null, false ] ]
+, [ 65, "A62E3206-169F-4754-986E-AC0E55228907", 65, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Dr Sally K Ride ES", "21301 Seneca Crossing Dr", "Germantown", "20876", "301-353-0994", "http://www.montgomeryschoolsmd.org/schools/ridees", "-77.2373667612", "39.2068179297", [ "{\"address\":\"21301 Seneca Crossing Dr\",\"city\":\"Germantown\",\"state\":\"MD\",\"zip\":\"20876\"}", "39.2068179297", "-77.2373667612", null, false ] ]
+, [ 66, "D8AAD96B-4885-4DF9-9CE6-DBF53D21B881", 66, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Capt James E Daly ES", "20301 Brandermill Dr", "Germantown", "20876", "301-353-0939", "http://www.montgomeryschoolsmd.org/schools/dalyes", "-77.232435198", "39.1894917072", [ "{\"address\":\"20301 Brandermill Dr\",\"city\":\"Germantown\",\"state\":\"MD\",\"zip\":\"20876\"}", "39.1894917072", "-77.232435198", null, false ] ]
+, [ 67, "FA7BF238-A2B0-497A-A607-9153D9715943", 67, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Waters Landing ES", "13100 Waters Landing Dr", "Germantown", "20874", "301-353-0915", "http://www.montgomeryschoolsmd.org/schools/waterslandinges", "-77.2686132909", "39.1886082714", [ "{\"address\":\"13100 Waters Landing Dr\",\"city\":\"Germantown\",\"state\":\"MD\",\"zip\":\"20874\"}", "39.1886082714", "-77.2686132909", null, false ] ]
+, [ 68, "943F7557-0C3A-4EB8-8976-C34E5D1F584C", 68, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Damascus ES", "10201 Bethesda Church Rd", "Damascus", "20872", "301-253-7080", "http://www.montgomeryschoolsmd.org/schools/damascuses", "-77.2110705499", "39.285505588", [ "{\"address\":\"10201 Bethesda Church Rd\",\"city\":\"Damascus\",\"state\":\"MD\",\"zip\":\"20872\"}", "39.285505588", "-77.2110705499", null, false ] ]
+, [ 69, "81B61A6D-CB5B-4606-935B-2A0609F062CB", 69, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Cedar Grove ES", "24001 Ridge Rd", "Germantown", "20876", "301-253-7000", "http://www.montgomeryschoolsmd.org/schools/cedargrovees", "-77.2322649942", "39.2493904272", [ "{\"address\":\"24001 Ridge Rd\",\"city\":\"Germantown\",\"state\":\"MD\",\"zip\":\"20876\"}", "39.2493904272", "-77.2322649942", null, false ] ]
+, [ 70, "7E8D4E15-8526-4250-88B2-706418771547", 70, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Clearspring ES", "9930 Moyer Rd", "Damascus", "20872", "301-253-7004", "http://www.montgomeryschoolsmd.org/schools/clearspringes", "-77.2073011632", "39.265783191", [ "{\"address\":\"9930 Moyer Rd\",\"city\":\"Damascus\",\"state\":\"MD\",\"zip\":\"20872\"}", "39.265783191", "-77.2073011632", null, false ] ]
+, [ 71, "08F4262D-0600-4B60-BC6D-4D9C81D737C7", 71, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Lois P Rockwell ES", "24555 Cutsail Dr", "Damascus", "20872", "301-253-7088", "http://www.montgomeryschoolsmd.org/schools/rockwelles", "-77.2141008476", "39.2562232443", [ "{\"address\":\"24555 Cutsail Dr\",\"city\":\"Damascus\",\"state\":\"MD\",\"zip\":\"20872\"}", "39.2562232443", "-77.2141008476", null, false ] ]
+, [ 72, "99EBE80E-9022-4D83-8B4B-954AD1A249E8", 72, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Woodfield ES", "24200 Woodfield Rd", "Gaithersburg", "20879", "301-253-7085", "http://www.montgomeryschoolsmd.org/schools/woodfieldes", "-77.1982813985", "39.2527827289", [ "{\"address\":\"24200 Woodfield Rd\",\"city\":\"Gaithersburg\",\"state\":\"MD\",\"zip\":\"20879\"}", "39.2527827289", "-77.1982813985", null, false ] ]
+, [ 73, "57FBD1FD-6A8F-45E2-AFAA-A4436A472563", 73, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Clarksburg ES", "13530 Redgrave Pl", "Clarksburg", "20871", "301-353-8060", "http://www.montgomeryschoolsmd.org/schools/clarksburges", "-77.2815170741", "39.2368552824", [ "{\"address\":\"13530 Redgrave Pl\",\"city\":\"Clarksburg\",\"state\":\"MD\",\"zip\":\"20871\"}", "39.2368552824", "-77.2815170741", null, false ] ]
+, [ 74, "B0BB15DA-EB95-44A9-AEF9-01A5620ECA2B", 74, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Chevy Chase ES", "4015 Rosemary St", "Chevy Chase", "20815", "301-657-4994", "http://www.montgomeryschoolsmd.org/schools/chevychasees", "-77.0802384598", "38.9785671729", [ "{\"address\":\"4015 Rosemary St\",\"city\":\"Chevy Chase\",\"state\":\"MD\",\"zip\":\"20815\"}", "38.9785671729", "-77.0802384598", null, false ] ]
+, [ 75, "6817E0B1-0D0D-47E4-8FB0-DEA472986D8A", 75, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Bannockburn ES", "6520 Dalroy La", "Bethesda", "20817", "301-320-6555", "http://www.montgomeryschoolsmd.org/schools/bannockburnes", "-77.1383339932", "38.974375007", [ "{\"address\":\"6520 Dalroy La\",\"city\":\"Bethesda\",\"state\":\"MD\",\"zip\":\"20817\"}", "38.974375007", "-77.1383339932", null, false ] ]
+, [ 76, "4A977EF1-843E-44BA-BF4D-40DA81663FBF", 76, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Burning Tree ES", "7900 Beech Tree Rd", "Bethesda", "20817", "301-320-6510", "http://www.montgomeryschoolsmd.org/schools/burningtreees", "-77.1433852431", "38.9899689499", [ "{\"address\":\"7900 Beech Tree Rd\",\"city\":\"Bethesda\",\"state\":\"MD\",\"zip\":\"20817\"}", "38.9899689499", "-77.1433852431", null, false ] ]
+, [ 77, "AAB35F9B-879E-44BF-8E2D-FC9EBC706D04", 77, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Wood Acres ES", "5800 Cromwell Dr", "Bethesda", "20816", "301-320-6502", "http://www.montgomeryschoolsmd.org/schools/woodacreses", "-77.1186718959", "38.9675865435", [ "{\"address\":\"5800 Cromwell Dr\",\"city\":\"Bethesda\",\"state\":\"MD\",\"zip\":\"20816\"}", "38.9675865435", "-77.1186718959", null, false ] ]
+, [ 78, "105D5931-FE73-42DF-A8CD-C67C3B4BBFFB", 78, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Somerset ES", "5811 Warwick Pl", "Chevy Chase", "20815", "301-657-4985", "http://www.montgomeryschoolsmd.org/schools/somersetes", "-77.092408162", "38.9691922144", [ "{\"address\":\"5811 Warwick Pl\",\"city\":\"Chevy Chase\",\"state\":\"MD\",\"zip\":\"20815\"}", "38.9691922144", "-77.092408162", null, false ] ]
+, [ 79, "88A5601F-848C-4514-B319-120CC94E7C46", 79, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Westbrook ES", "5110 Allan Ter", "Bethesda", "20816", "301-320-6506", "http://www.montgomeryschoolsmd.org/schools/westbrookes", "-77.1028193264", "38.9584710865", [ "{\"address\":\"5110 Allan Ter\",\"city\":\"Bethesda\",\"state\":\"MD\",\"zip\":\"20816\"}", "38.9584710865", "-77.1028193264", null, false ] ]
+, [ 80, "37D94EB0-735F-4665-9FF6-72DDC2A084CA", 80, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Bethesda ES", "7600 Arlington Rd", "Bethesda", "20814", "301-657-4979", "http://www.montgomeryschoolsmd.org/schools/bethesdaes", "-77.0998645245", "38.9864595389", [ "{\"address\":\"7600 Arlington Rd\",\"city\":\"Bethesda\",\"state\":\"MD\",\"zip\":\"20814\"}", "38.9864595389", "-77.0998645245", null, false ] ]
+, [ 81, "2D9EEBD6-5E4C-4D29-A04D-C2A83E264A6B", 81, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Bradley Hills ES", "8701 Hartsdale Ave", "Bethesda", "20817", "301-571-6966", "http://www.montgomeryschoolsmd.org/schools/bradleyhillses", "-77.118061653", "38.9996852991", [ "{\"address\":\"8701 Hartsdale Ave\",\"city\":\"Bethesda\",\"state\":\"MD\",\"zip\":\"20817\"}", "38.9996852991", "-77.118061653", null, false ] ]
+, [ 82, "C542F8EF-8524-41FC-95DD-FED099769089", 82, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Wayside ES", "10011 Glen Rd", "Potomac", "20854", "301-279-8484", "http://www.montgomeryschoolsmd.org/schools/waysidees", "-77.2061907116", "39.0475503295", [ "{\"address\":\"10011 Glen Rd\",\"city\":\"Potomac\",\"state\":\"MD\",\"zip\":\"20854\"}", "39.0475503295", "-77.2061907116", null, false ] ]
+, [ 83, "C16DE53E-418E-47BC-A9AC-EF6054AC8A15", 83, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Beverly Farms ES (Construction)", "8501 Post Oak Rd", "Potomac", "20854", "301-469-1050", "http://www.montgomeryschoolsmd.org/schools/beverlyfarmses", "-77.1763322374", "39.052145262", [ "{\"address\":\"8501 Post Oak Rd\",\"city\":\"Potomac\",\"state\":\"MD\",\"zip\":\"20854\"}", "39.052145262", "-77.1763322374", null, false ] ]
+, [ 84, "CCFC494E-D599-4A3E-A0CC-4732E880D9EE", 84, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Ritchie Park ES", "1514 Dunster Rd", "Rockville", "20854", "301-279-8475", "http://www.montgomeryschoolsmd.org/schools/ritchieparkes", "-77.1744365305", "39.0631353305", [ "{\"address\":\"1514 Dunster Rd\",\"city\":\"Rockville\",\"state\":\"MD\",\"zip\":\"20854\"}", "39.0631353305", "-77.1744365305", null, false ] ]
+, [ 85, "84DF1217-2157-45FB-AD4A-EA4ED8A58303", 85, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Farmland ES", "7000 Old Gate Rd", "Rockville", "20852", "301-230-5919", "http://www.montgomeryschoolsmd.org/schools/farmlandes", "-77.1452755671", "39.0471937956", [ "{\"address\":\"7000 Old Gate Rd\",\"city\":\"Rockville\",\"state\":\"MD\",\"zip\":\"20852\"}", "39.0471937956", "-77.1452755671", null, false ] ]
+, [ 86, "4008BE85-19E6-4634-9CB5-63E354362AAF", 86, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Luxmanor ES", "6201 Tilden La", "Rockville", "20852", "301-230-5914", "http://www.montgomeryschoolsmd.org/schools/luxmanores", "-77.1272246138", "39.0448713701", [ "{\"address\":\"6201 Tilden La\",\"city\":\"Rockville\",\"state\":\"MD\",\"zip\":\"20852\"}", "39.0448713701", "-77.1272246138", null, false ] ]
+, [ 87, "151D35DF-B823-4606-A50E-C7B4D156C5DA", 87, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Bells Mill ES", "8225 Bells Mill Rd", "Potomac", "20854", "301-469-1046", "http://www.montgomeryschoolsmd.org/schools/bellsmilles", "-77.1687400874", "39.0320119149", [ "{\"address\":\"8225 Bells Mill Rd\",\"city\":\"Potomac\",\"state\":\"MD\",\"zip\":\"20854\"}", "39.0320119149", "-77.1687400874", null, false ] ]
+, [ 88, "7808C320-13ED-456F-A4B9-86AADDE9ADC0", 88, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Potomac ES", "10311 River Rd", "Potomac", "20854", "301-469-1042", "http://www.montgomeryschoolsmd.org/schools/potomaces", "-77.2132952636", "39.0216533251", [ "{\"address\":\"10311 River Rd\",\"city\":\"Potomac\",\"state\":\"MD\",\"zip\":\"20854\"}", "39.0216533251", "-77.2132952636", null, false ] ]
+, [ 89, "B8FEC56B-F89D-4C88-83FD-429AFF004AB4", 89, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Seven Locks ES (at Radnor Center)", "7000 Radnor Rd", "Bethesda", "20817", "301-469-1038", "http://www.montgomeryschoolsmd.org/schools/sevenlockses", "-77.114718632", "38.9790958064", [ "{\"address\":\"7000 Radnor Rd\",\"city\":\"Bethesda\",\"state\":\"MD\",\"zip\":\"20817\"}", "38.9790958064", "-77.114718632", null, false ] ]
+, [ 90, "4109EB13-8A50-4995-BB60-FB4322F4D7E0", 90, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Seven Locks ES (Construction)", "9500 Seven Locks Rd", "Bethesda", "20817", "301-469-1038", "http://www.montgomeryschoolsmd.org/schools/sevenlockses", "-77.16113969", "39.0123627913", [ "{\"address\":\"9500 Seven Locks Rd\",\"city\":\"Bethesda\",\"state\":\"MD\",\"zip\":\"20817\"}", "39.0123627913", "-77.16113969", null, false ] ]
+, [ 91, "22967432-C4A5-4D4F-B7CA-A4082A75DFFC", 91, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Ashburton ES", "6314 Lone Oak Dr", "Bethesda", "20817", "301-571-6959", "http://www.montgomeryschoolsmd.org/schools/ashburtones", "-77.1277212211", "39.0194442555", [ "{\"address\":\"6314 Lone Oak Dr\",\"city\":\"Bethesda\",\"state\":\"MD\",\"zip\":\"20817\"}", "39.0194442555", "-77.1277212211", null, false ] ]
+, [ 92, "0C77EB80-2920-4306-AFDD-FD5732871676", 92, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Wyngate ES", "9300 Wadsworth Dr", "Bethesda", "20817", "301-571-6979", "http://www.montgomeryschoolsmd.org/schools/wyngatees", "-77.1282437122", "39.0093256299", [ "{\"address\":\"9300 Wadsworth Dr\",\"city\":\"Bethesda\",\"state\":\"MD\",\"zip\":\"20817\"}", "39.0093256299", "-77.1282437122", null, false ] ]
+, [ 93, "766F127C-C394-4114-99B5-670837AC09DA", 93, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Garrett Park ES (Construction)", "4810 Oxford St", "Garrett Park", "20896", "301-929-2170", "http://www.montgomeryschoolsmd.org/schools/garrettparkes", "-77.0965815552", "39.0330455094", [ "{\"address\":\"4810 Oxford St\",\"city\":\"Garrett Park\",\"state\":\"MD\",\"zip\":\"20896\"}", "39.0330455094", "-77.0965815552", null, false ] ]
+, [ 94, "E7D226F5-4B84-4CE8-8248-9E1F5D176678", 94, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Kensington Parkwood ES", "4710 Saul Rd", "Kensington", "20895", "301-571-6949", "http://www.montgomeryschoolsmd.org/schools/parkwoodes", "-77.0949119854", "39.0217956579", [ "{\"address\":\"4710 Saul Rd\",\"city\":\"Kensington\",\"state\":\"MD\",\"zip\":\"20895\"}", "39.0217956579", "-77.0949119854", null, false ] ]
+, [ 95, "67A26E45-D52E-47AF-97B5-20F36B2CA252", 95, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Rock Creek Forest ES", "8330 Grubb Rd", "Chevy Chase", "20815", "301-650-6410", "http://www.montgomeryschoolsmd.org/schools/rcforestes", "-77.0512978748", "38.9922962885", [ "{\"address\":\"8330 Grubb Rd\",\"city\":\"Chevy Chase\",\"state\":\"MD\",\"zip\":\"20815\"}", "38.9922962885", "-77.0512978748", null, false ] ]
+, [ 96, "4D02AA3F-DB57-4DF5-9BA0-D008912727F6", 96, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Woodlin ES", "2101 Luzerne Ave", "Silver Spring", "20910", "301-650-6440", "http://www.montgomeryschoolsmd.org/schools/woodlines", "-77.0467716274", "39.0065373884", [ "{\"address\":\"2101 Luzerne Ave\",\"city\":\"Silver Spring\",\"state\":\"MD\",\"zip\":\"20910\"}", "39.0065373884", "-77.0467716274", null, false ] ]
+, [ 97, "93B5291E-22E8-4443-B80C-2AC1DE70C27D", 97, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Rosemary Hills ES", "2111 Porter Rd", "Silver Spring", "20910", "301-650-6400", "http://www.montgomeryschoolsmd.org/schools/rosemaryhillses", "-77.0451517607", "39.0013306373", [ "{\"address\":\"2111 Porter Rd\",\"city\":\"Silver Spring\",\"state\":\"MD\",\"zip\":\"20910\"}", "39.0013306373", "-77.0451517607", null, false ] ]
+, [ 98, "5D5A887F-8A7B-48F5-A418-500989772C9F", 98, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Piney Branch ES", "7510 Maple Ave", "Takoma Park", "20912", "301-891-8000", "http://www.montgomeryschoolsmd.org/schools/pineybranches", "-77.0093788825", "38.9821316553", [ "{\"address\":\"7510 Maple Ave\",\"city\":\"Takoma Park\",\"state\":\"MD\",\"zip\":\"20912\"}", "38.9821316553", "-77.0093788825", null, false ] ]
+, [ 99, "D9F9853C-7F05-4A8A-9B82-E65421DA2D71", 99, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "East Silver Spring ES", "631 Silver Spring Ave", "Silver Spring", "20910", "301-650-6420", "http://www.montgomeryschoolsmd.org/schools/eastsilverspringes", "-77.0152105919", "38.9923950104", [ "{\"address\":\"631 Silver Spring Ave\",\"city\":\"Silver Spring\",\"state\":\"MD\",\"zip\":\"20910\"}", "38.9923950104", "-77.0152105919", null, false ] ]
+, [ 100, "20E45EE2-871E-4E62-AA47-94B99BB9BD36", 100, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Takoma Park ES", "7511 Holly Ave", "Takoma Park", "20912", "301-650-6414", "http://www.montgomeryschoolsmd.org/schools/takomaparkes", "-77.0124148794", "38.9826597502", [ "{\"address\":\"7511 Holly Ave\",\"city\":\"Takoma Park\",\"state\":\"MD\",\"zip\":\"20912\"}", "38.9826597502", "-77.0124148794", null, false ] ]
+, [ 101, "80D6632B-FED5-47A1-9F03-2FFBB66F773F", 101, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "North Chevy Chase ES", "3700 Jones Bridge Rd", "Chevy Chase", "20815", "301-657-4950", "http://www.montgomeryschoolsmd.org/schools/nchevychasees", "-77.073432352", "38.9987705251", [ "{\"address\":\"3700 Jones Bridge Rd\",\"city\":\"Chevy Chase\",\"state\":\"MD\",\"zip\":\"20815\"}", "38.9987705251", "-77.073432352", null, false ] ]
+, [ 102, "B4BEAF1B-F408-4C73-B3A4-97BA66DC0588", 102, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Pine Crest ES", "201 Woodmoor Dr", "Silver Spring", "20901", "301-649-8066", "http://www.montgomeryschoolsmd.org/schools/pinecrestes", "-77.0050375472", "39.0213110705", [ "{\"address\":\"201 Woodmoor Dr\",\"city\":\"Silver Spring\",\"state\":\"MD\",\"zip\":\"20901\"}", "39.0213110705", "-77.0050375472", null, false ] ]
+, [ 103, "DEBF0FC8-09BA-4C3A-8548-26DD602A1B28", 103, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Cresthaven ES", "1234 Cresthaven Dr", "Silver Spring", "20903", "301-431-7622", "http://www.montgomeryschoolsmd.org/schools/cresthavenes", "-76.9876315723", "39.0274886611", [ "{\"address\":\"1234 Cresthaven Dr\",\"city\":\"Silver Spring\",\"state\":\"MD\",\"zip\":\"20903\"}", "39.0274886611", "-76.9876315723", null, false ] ]
+, [ 104, "452809B6-1B2C-40C2-BC60-7728C0BB2515", 104, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Oak View ES", "400 E Wayne Ave", "Silver Spring", "20901", "301-650-6434", "http://www.montgomeryschoolsmd.org/schools/oakviewes", "-77.0024156168", "39.0045260505", [ "{\"address\":\"400 E Wayne Ave\",\"city\":\"Silver Spring\",\"state\":\"MD\",\"zip\":\"20901\"}", "39.0045260505", "-77.0024156168", null, false ] ]
+, [ 105, "3A544980-87DC-43DB-9AC3-4FC6CA4B837B", 105, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Highland View ES", "9010 Providence Ave", "Silver Spring", "20901", "301-650-6426", "http://www.montgomeryschoolsmd.org/schools/highlandviewes", "-77.0103578619", "39.0042511332", [ "{\"address\":\"9010 Providence Ave\",\"city\":\"Silver Spring\",\"state\":\"MD\",\"zip\":\"20901\"}", "39.0042511332", "-77.0103578619", null, false ] ]
+, [ 106, "8B64AEDB-74D2-4160-B7CE-988D175D555D", 106, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Montgomery Knolls ES", "807 Daleview Dr", "Silver Spring", "20901", "301-431-7667", "http://www.montgomeryschoolsmd.org/schools/knollses", "-76.9931786787", "39.0057482268", [ "{\"address\":\"807 Daleview Dr\",\"city\":\"Silver Spring\",\"state\":\"MD\",\"zip\":\"20901\"}", "39.0057482268", "-76.9931786787", null, false ] ]
+, [ 107, "7DB0CB7C-C297-47F4-9E91-E0FE6B358288", 107, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Broad Acres ES", "710 Beacon Rd", "Silver Spring", "20903", "301-431-7616", "http://www.montgomeryschoolsmd.org/schools/broadacreses", "-76.9851884399", "39.0093594505", [ "{\"address\":\"710 Beacon Rd\",\"city\":\"Silver Spring\",\"state\":\"MD\",\"zip\":\"20903\"}", "39.0093594505", "-76.9851884399", null, false ] ]
+, [ 108, "06FF1397-F062-4B59-B858-13021C7692F8", 108, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "New Hampshire Estates ES", "8720 Carroll Ave", "Silver Spring", "20903", "301-431-7607", "http://www.montgomeryschoolsmd.org/schools/nhees", "-76.9923045793", "38.9981968148", [ "{\"address\":\"8720 Carroll Ave\",\"city\":\"Silver Spring\",\"state\":\"MD\",\"zip\":\"20903\"}", "38.9981968148", "-76.9923045793", null, false ] ]
+, [ 109, "DCC4572A-FAF5-4217-9247-45FAF700F5C8", 109, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Rolling Terrace ES", "705 Bayfield St", "Takoma Park", "20912", "301-431-7600", "http://www.montgomeryschoolsmd.org/schools/rollinges", "-76.9972611451", "38.995168098", [ "{\"address\":\"705 Bayfield St\",\"city\":\"Takoma Park\",\"state\":\"MD\",\"zip\":\"20912\"}", "38.995168098", "-76.9972611451", null, false ] ]
+, [ 110, "AA218439-4785-4099-8D89-6E01782427E8", 110, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Highland ES", "3100 Medway St", "Silver Spring", "20902", "301-929-2040", "http://www.montgomeryschoolsmd.org/schools/highlandes", "-77.0639085292", "39.0511227", [ "{\"address\":\"3100 Medway St\",\"city\":\"Silver Spring\",\"state\":\"MD\",\"zip\":\"20902\"}", "39.0511227", "-77.0639085292", null, false ] ]
+, [ 111, "EC5E73DC-607A-4ED6-B05C-355756B944DF", 111, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Oakland Terrace ES", "2720 Plyers Mill Rd", "Silver Spring", "20902", "301-929-2161", "http://www.montgomeryschoolsmd.org/schools/oaklandes", "-77.0573923387", "39.0286194203", [ "{\"address\":\"2720 Plyers Mill Rd\",\"city\":\"Silver Spring\",\"state\":\"MD\",\"zip\":\"20902\"}", "39.0286194203", "-77.0573923387", null, false ] ]
+, [ 112, "1D80A9EB-FFE6-4E4E-BFB0-D2F0C256430E", 112, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Rock View ES", "3901 Denfeld Ave", "Kensington", "20895", "301-929-2002", "http://www.montgomeryschoolsmd.org/schools/rockviewes", "-77.0769950641", "39.0395140953", [ "{\"address\":\"3901 Denfeld Ave\",\"city\":\"Kensington\",\"state\":\"MD\",\"zip\":\"20895\"}", "39.0395140953", "-77.0769950641", null, false ] ]
+, [ 113, "EE30A5B1-834C-4D02-9BD9-12B56C87F1A7", 113, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Viers Mill ES", "11711 Joseph Mill Rd", "Silver Spring", "20906", "301-929-2165", "http://www.montgomeryschoolsmd.org/schools/viersmilles", "-77.0852891291", "39.048502748", [ "{\"address\":\"11711 Joseph Mill Rd\",\"city\":\"Silver Spring\",\"state\":\"MD\",\"zip\":\"20906\"}", "39.048502748", "-77.0852891291", null, false ] ]
+, [ 114, "CCA192F8-82A7-4083-899F-4842910BA44B", 114, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Wheaton Woods ES", "4510 Faroe Pl", "Rockville", "20853", "301-929-2018", "http://www.montgomeryschoolsmd.org/schools/wheatonwoodses", "-77.0902208543", "39.0682491425", [ "{\"address\":\"4510 Faroe Pl\",\"city\":\"Rockville\",\"state\":\"MD\",\"zip\":\"20853\"}", "39.0682491425", "-77.0902208543", null, false ] ]
+, [ 115, "61CCEAAE-4D96-4978-8BF8-363C5FFC77AB", 115, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Weller Road ES", "3301 Weller Rd", "Silver Spring", "20906", "301-929-2010", "http://www.montgomeryschoolsmd.org/schools/wellerroades", "-77.06706298", "39.0654368354", [ "{\"address\":\"3301 Weller Rd\",\"city\":\"Silver Spring\",\"state\":\"MD\",\"zip\":\"20906\"}", "39.0654368354", "-77.06706298", null, false ] ]
+, [ 116, "4337D912-59B1-498F-9BD0-7C3E0993C619", 116, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Georgian Forest ES", "3100 Regina Dr", "Silver Spring", "20906", "301-460-2170", "http://www.montgomeryschoolsmd.org/schools/georgianforestes", "-77.0614546922", "39.0756428629", [ "{\"address\":\"3100 Regina Dr\",\"city\":\"Silver Spring\",\"state\":\"MD\",\"zip\":\"20906\"}", "39.0756428629", "-77.0614546922", null, false ] ]
+, [ 117, "2B9B1CFF-87B1-4ECC-83B1-E1DC1D5C99E1", 117, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Harmony Hills ES", "13407 Lydia St", "Silver Spring", "20906", "301-929-2157", "http://www.montgomeryschoolsmd.org/schools/harmonyhillses", "-77.0761131795", "39.0766059586", [ "{\"address\":\"13407 Lydia St\",\"city\":\"Silver Spring\",\"state\":\"MD\",\"zip\":\"20906\"}", "39.0766059586", "-77.0761131795", null, false ] ]
+, [ 118, "D651FA4A-762C-4244-A898-A7612D0A9419", 118, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Bel Pre ES", "13801 Rippling Brook Dr", "Silver Spring", "20906", "301-460-2145", "http://www.montgomeryschoolsmd.org/schools/belprees", "-77.0547238659", "39.0816042674", [ "{\"address\":\"13801 Rippling Brook Dr\",\"city\":\"Silver Spring\",\"state\":\"MD\",\"zip\":\"20906\"}", "39.0816042674", "-77.0547238659", null, false ] ]
+, [ 119, "98D4519E-1F9F-4222-8987-F7D178CF7ADE", 119, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Glen Haven ES", "10900 Inwood Ave", "Silver Spring", "20902", "301-649-8051", "http://www.montgomeryschoolsmd.org/schools/glenhavenes", "-77.0370393611", "39.0338425388", [ "{\"address\":\"10900 Inwood Ave\",\"city\":\"Silver Spring\",\"state\":\"MD\",\"zip\":\"20902\"}", "39.0338425388", "-77.0370393611", null, false ] ]
+, [ 120, "160B5E73-087D-4C86-9153-CFCE5DB25C1F", 120, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Kemp Mill ES", "411 Sisson St", "Silver Spring", "20902", "301-649-8046", "http://www.montgomeryschoolsmd.org/schools/kempmilles", "-77.0170471225", "39.0436381558", [ "{\"address\":\"411 Sisson St\",\"city\":\"Silver Spring\",\"state\":\"MD\",\"zip\":\"20902\"}", "39.0436381558", "-77.0170471225", null, false ] ]
+, [ 121, "CDF3D368-BE61-4277-A45B-62218BBA3E98", 121, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Burnt Mills ES", "11211 Childs St", "Silver Spring", "20901", "301-649-8192", "http://www.montgomeryschoolsmd.org/schools/burntmillses", "-77.0017610753", "39.0394753102", [ "{\"address\":\"11211 Childs St\",\"city\":\"Silver Spring\",\"state\":\"MD\",\"zip\":\"20901\"}", "39.0394753102", "-77.0017610753", null, false ] ]
+, [ 122, "D3894E7E-AFE1-4131-928E-82CA7B69A3BB", 122, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Forest Knolls ES", "10830 Eastwood Ave", "Silver Spring", "20901", "301-649-8060", "http://www.montgomeryschoolsmd.org/schools/forestknollses", "-77.0204193723", "39.0333104381", [ "{\"address\":\"10830 Eastwood Ave\",\"city\":\"Silver Spring\",\"state\":\"MD\",\"zip\":\"20901\"}", "39.0333104381", "-77.0204193723", null, false ] ]
+, [ 123, "2F3A6D57-55B7-486A-B87A-7C9AF5211448", 123, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Glenallan ES", "12520 Heurich Rd", "Silver Spring", "20902", "301-929-2014", "http://www.montgomeryschoolsmd.org/schools/glenallanes", "-77.0413621208", "39.0613561538", [ "{\"address\":\"12520 Heurich Rd\",\"city\":\"Silver Spring\",\"state\":\"MD\",\"zip\":\"20902\"}", "39.0613561538", "-77.0413621208", null, false ] ]
+, [ 124, "957E032D-311D-4D8D-A77E-427827978F11", 124, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Westover ES", "401 Hawkesbury La", "Silver Spring", "20904", "301-989-5676", "http://www.montgomeryschoolsmd.org/schools/westoveres", "-77.0180223922", "39.0748642774", [ "{\"address\":\"401 Hawkesbury La\",\"city\":\"Silver Spring\",\"state\":\"MD\",\"zip\":\"20904\"}", "39.0748642774", "-77.0180223922", null, false ] ]
+, [ 125, "7659A141-F119-4ADC-827D-064F679953BE", 125, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Cannon Road ES (Construction)", "901 Cannon Rd", "Silver Spring", "20904", "301-989-5662", "http://www.montgomeryschoolsmd.org/schools/cannonroades", "-76.9941729238", "39.0687671595", [ "{\"address\":\"901 Cannon Rd\",\"city\":\"Silver Spring\",\"state\":\"MD\",\"zip\":\"20904\"}", "39.0687671595", "-76.9941729238", null, false ] ]
+, [ 126, "D98FB9AE-E0A5-4CBB-A764-75FA4A05012C", 126, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "William T Page ES", "13400 Tamarack Rd", "Silver Spring", "20904", "301-989-5672", "http://www.montgomeryschoolsmd.org/schools/pagees", "-76.9835905797", "39.0749086167", [ "{\"address\":\"13400 Tamarack Rd\",\"city\":\"Silver Spring\",\"state\":\"MD\",\"zip\":\"20904\"}", "39.0749086167", "-76.9835905797", null, false ] ]
+, [ 127, "7175E86D-8B8D-426B-BB75-B5BD8697062B", 127, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Jackson Road ES", "900 Jackson Rd", "Silver Spring", "20904", "301-989-5650", "http://www.montgomeryschoolsmd.org/schools/jacksonroades", "-76.9918070316", "39.0564225207", [ "{\"address\":\"900 Jackson Rd\",\"city\":\"Silver Spring\",\"state\":\"MD\",\"zip\":\"20904\"}", "39.0564225207", "-76.9918070316", null, false ] ]
+, [ 128, "6C436789-4F5D-4A3A-96A3-3A7A6A12412B", 128, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Galway ES", "12612 Galway Dr", "Silver Spring", "20904", "301-595-2930", "http://www.montgomeryschoolsmd.org/schools/galwayes", "-76.9463103201", "39.0639572983", [ "{\"address\":\"12612 Galway Dr\",\"city\":\"Silver Spring\",\"state\":\"MD\",\"zip\":\"20904\"}", "39.0639572983", "-76.9463103201", null, false ] ]
+, [ 129, "7B9C1CAF-33B6-43DB-94FA-9746FD026A36", 129, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Greencastle ES", "13611 Robey Rd", "Silver Spring", "20904", "301-595-2940", "http://www.montgomeryschoolsmd.org/schools/greencastlees", "-76.9417549222", "39.0804194508", [ "{\"address\":\"13611 Robey Rd\",\"city\":\"Silver Spring\",\"state\":\"MD\",\"zip\":\"20904\"}", "39.0804194508", "-76.9417549222", null, false ] ]
+, [ 130, "A5B0FEB7-7E52-426A-B0D4-0D81FCA4975F", 130, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Fairland ES", "14315 Fairdale Rd", "Silver Spring", "20905", "301-989-5658", "http://www.montgomeryschoolsmd.org/schools/fairlandes", "-76.9561706003", "39.0906439188", [ "{\"address\":\"14315 Fairdale Rd\",\"city\":\"Silver Spring\",\"state\":\"MD\",\"zip\":\"20905\"}", "39.0906439188", "-76.9561706003", null, false ] ]
+, [ 131, "1EC002AB-4ACC-4FA3-B9B5-37DF797C29AE", 131, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Spark M Matsunaga ES", "13902 Bromfield Road", "Germantown", "20874", "301-601-4350", "http://www.montgomeryschoolsmd.org/schools/matsunagaes", "-77.2927303852", "39.1507070468", [ "{\"address\":\"13902 Bromfield Road\",\"city\":\"Germantown\",\"state\":\"MD\",\"zip\":\"20874\"}", "39.1507070468", "-77.2927303852", null, false ] ]
+, [ 132, "648F44BC-EBF8-474A-B93F-0271F62F811E", 132, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Sligo Creek ES", "500 Schuyler Rd", "Silver Spring", "20910", "301-562-2722", "http://www.montgomeryschoolsmd.org/schools/sligocreekes", "-77.0157924626", "39.0004315169", [ "{\"address\":\"500 Schuyler Rd\",\"city\":\"Silver Spring\",\"state\":\"MD\",\"zip\":\"20910\"}", "39.0004315169", "-77.0157924626", null, false ] ]
+, [ 133, "64AAEF4F-C41F-4E79-950F-B599AA4C81F3", 133, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Lakewood ES", "2534 Lindley Ter", "Rockville", "20853", "301-279-8465", "http://www.montgomeryschoolsmd.org/schools/lakewoodes", "-77.1940772943", "39.0879540935", [ "{\"address\":\"2534 Lindley Ter\",\"city\":\"Rockville\",\"state\":\"MD\",\"zip\":\"20853\"}", "39.0879540935", "-77.1940772943", null, false ] ]
+, [ 134, "004A92E7-7C09-4061-AF3D-310360F7C004", 134, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Cold Spring ES", "9201 Falls Chapel Way", "Potomac", "20854", "301-279-8480", "http://www.montgomeryschoolsmd.org/schools/coldspringes", "-77.1888641311", "39.0592190026", [ "{\"address\":\"9201 Falls Chapel Way\",\"city\":\"Potomac\",\"state\":\"MD\",\"zip\":\"20854\"}", "39.0592190026", "-77.1888641311", null, false ] ]
+, [ 135, "98A02641-41B0-4228-B81B-B2FE36E83EF9", 135, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Burtonsville ES", "15516 Old Columbia Pik", "Burtonsville", "20866", "301-989-5654", "http://www.montgomeryschoolsmd.org/schools/burtonsvillees", "-76.9364158921", "39.1113736951", [ "{\"address\":\"15516 Old Columbia Pik\",\"city\":\"Burtonsville\",\"state\":\"MD\",\"zip\":\"20866\"}", "39.1113736951", "-76.9364158921", null, false ] ]
+, [ 136, "719B81EC-6AAA-4A65-84BA-5F4C2E8E4F21", 136, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Stonegate ES", "14811 Notley Rd", "Silver Spring", "20904", "301-989-5668", "http://www.montgomeryschoolsmd.org/schools/stonegatees", "-77.0157475178", "39.0995467662", [ "{\"address\":\"14811 Notley Rd\",\"city\":\"Silver Spring\",\"state\":\"MD\",\"zip\":\"20904\"}", "39.0995467662", "-77.0157475178", null, false ] ]
+, [ 137, "30A4A825-26AD-4828-B8DF-0F1010B2B246", 137, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Cloverly ES", "800 Briggs Chaney Rd", "Silver Spring", "20904", "301-989-5770", "http://www.montgomeryschoolsmd.org/schools/cloverlyes", "-76.9942569561", "39.1076890075", [ "{\"address\":\"800 Briggs Chaney Rd\",\"city\":\"Silver Spring\",\"state\":\"MD\",\"zip\":\"20904\"}", "39.1076890075", "-76.9942569561", null, false ] ]
+, [ 138, "66D37662-FA64-4459-BF5A-BC656B0BD152", 138, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Dr Charles R Drew ES", "1200 Swingingdale Dr", "Silver Spring", "20905", "301-989-6030", "http://www.montgomeryschoolsmd.org/schools/drewes", "-76.9871082262", "39.0916281714", [ "{\"address\":\"1200 Swingingdale Dr\",\"city\":\"Silver Spring\",\"state\":\"MD\",\"zip\":\"20905\"}", "39.0916281714", "-76.9871082262", null, false ] ]
+, [ 139, "8242C37E-31C8-4D2A-ADFA-3DB3123FEE27", 139, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Sherwood ES", "1401 Olney Sandy Spring Rd", "Sandy Spring", "20860", "301-924-3195", "http://www.montgomeryschoolsmd.org/schools/sherwoodes", "-77.0331164576", "39.1495841588", [ "{\"address\":\"1401 Olney Sandy Spring Rd\",\"city\":\"Sandy Spring\",\"state\":\"MD\",\"zip\":\"20860\"}", "39.1495841588", "-77.0331164576", null, false ] ]
+, [ 140, "8D35BD64-E445-450F-B430-9F80AB27B28C", 140, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Brooke Grove ES", "2700 Spartan Rd", "Olney", "20832", "301-924-3154", "http://www.montgomeryschoolsmd.org/schools/brookegrovees", "-77.0505720393", "39.1568438213", [ "{\"address\":\"2700 Spartan Rd\",\"city\":\"Olney\",\"state\":\"MD\",\"zip\":\"20832\"}", "39.1568438213", "-77.0505720393", null, false ] ]
+, [ 141, "A14F11DF-F4C5-483D-B608-BACA89152EEC", 141, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Olney ES", "3401 Queen Mary Dr", "Olney", "20832", "301-924-3126", "http://www.montgomeryschoolsmd.org/schools/olneyes", "-77.0682809714", "39.1492298699", [ "{\"address\":\"3401 Queen Mary Dr\",\"city\":\"Olney\",\"state\":\"MD\",\"zip\":\"20832\"}", "39.1492298699", "-77.0682809714", null, false ] ]
+, [ 142, "73142995-01AF-480F-A49F-0D3D38E1F6E6", 142, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Belmont ES", "19528 Olney Mill Rd", "Olney", "20832", "301-924-3140", "http://www.montgomeryschoolsmd.org/schools/belmontes", "-77.0668029032", "39.1785814737", [ "{\"address\":\"19528 Olney Mill Rd\",\"city\":\"Olney\",\"state\":\"MD\",\"zip\":\"20832\"}", "39.1785814737", "-77.0668029032", null, false ] ]
+, [ 143, "DC201759-F97D-4678-8532-FDA762BA38A5", 143, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Cashell ES", "17101 Cashell Rd", "Rockville", "20853", "301-924-3130", "http://www.montgomeryschoolsmd.org/schools/cashelles", "-77.0859177884", "39.1373140735", [ "{\"address\":\"17101 Cashell Rd\",\"city\":\"Rockville\",\"state\":\"MD\",\"zip\":\"20853\"}", "39.1373140735", "-77.0859177884", null, false ] ]
+, [ 144, "94F300AB-8245-4D18-B539-E81D82C2B599", 144, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Greenwood ES", "3336 Gold Mine Rd", "Brookeville", "20833", "301-924-3145", "http://www.montgomeryschoolsmd.org/schools/greenwoodes", "-77.0647632594", "39.1652320194", [ "{\"address\":\"3336 Gold Mine Rd\",\"city\":\"Brookeville\",\"state\":\"MD\",\"zip\":\"20833\"}", "39.1652320194", "-77.0647632594", null, false ] ]
+, [ 145, "34681A6E-4D0C-436C-8BFC-EE8FEF0A22EB", 145, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Mill Creek Towne ES", "17700 Park Mill Dr", "Rockville", "20855", "301-840-7149", "http://www.montgomeryschoolsmd.org/schools/mctes", "-77.1538014464", "39.146421794", [ "{\"address\":\"17700 Park Mill Dr\",\"city\":\"Rockville\",\"state\":\"MD\",\"zip\":\"20855\"}", "39.146421794", "-77.1538014464", null, false ] ]
+, [ 146, "58C61E54-D040-4DA0-9A2D-BEA2913CEE99", 146, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Candlewood ES", "7210 Osprey Dr", "Rockville", "20855", "301-840-7167", "http://www.montgomeryschoolsmd.org/schools/candlewoodes/", "-77.1470003793", "39.1290023776", [ "{\"address\":\"7210 Osprey Dr\",\"city\":\"Rockville\",\"state\":\"MD\",\"zip\":\"20855\"}", "39.1290023776", "-77.1470003793", null, false ] ]
+, [ 147, "ECDAD7DF-2CDE-4A21-B58E-E18E261A6AB9", 147, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Sequoyah ES", "17301 Bowie Mill Rd", "Derwood", "20855", "301-840-5335", "http://www.montgomeryschoolsmd.org/schools/sequoyahes", "-77.1177456873", "39.1392853217", [ "{\"address\":\"17301 Bowie Mill Rd\",\"city\":\"Derwood\",\"state\":\"MD\",\"zip\":\"20855\"}", "39.1392853217", "-77.1177456873", null, false ] ]
+, [ 148, "D5753C11-442E-4B5D-9C31-DD7D5E1653D4", 148, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Rosemont ES", "16400 Alden Ave", "Gaithersburg", "20877", "301-840-7123", "http://www.montgomeryschoolsmd.org/schools/rosemontes", "-77.1852514951", "39.1251152677", [ "{\"address\":\"16400 Alden Ave\",\"city\":\"Gaithersburg\",\"state\":\"MD\",\"zip\":\"20877\"}", "39.1251152677", "-77.1852514951", null, false ] ]
+, [ 149, "AB7A0B53-E08C-435B-9F36-5771AA708B1C", 149, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Summit Hall ES", "101 W Deer Park Rd", "Gaithersburg", "20877", "301-840-7127", "http://www.montgomeryschoolsmd.org/schools/summithalles", "-77.195457283", "39.127282494", [ "{\"address\":\"101 W Deer Park Rd\",\"city\":\"Gaithersburg\",\"state\":\"MD\",\"zip\":\"20877\"}", "39.127282494", "-77.195457283", null, false ] ]
+, [ 150, "A4E9DA5B-31DC-47F7-9B2F-F341FC8FD32C", 150, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Washington Grove ES", "8712 Oakmont St", "Gaithersburg", "20877", "301-840-7120", "http://www.montgomeryschoolsmd.org/schools/washingtongrovees", "-77.1777402319", "39.1324887754", [ "{\"address\":\"8712 Oakmont St\",\"city\":\"Gaithersburg\",\"state\":\"MD\",\"zip\":\"20877\"}", "39.1324887754", "-77.1777402319", null, false ] ]
+, [ 151, "BE902059-3C5A-4172-97F7-44FD513B71FD", 151, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Gaithersburg ES", "35 N Summit Ave", "Gaithersburg", "20877", "301-840-7136", "http://www.montgomeryschoolsmd.org/schools/gaithersburges", "-77.1920511474", "39.1435715404", [ "{\"address\":\"35 N Summit Ave\",\"city\":\"Gaithersburg\",\"state\":\"MD\",\"zip\":\"20877\"}", "39.1435715404", "-77.1920511474", null, false ] ]
+, [ 152, "D0AB6998-BFFD-4755-802E-E6BC4F89F005", 152, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Whetstone ES", "19201 Thomas Farm Dr", "Gaithersburg", "20879", "301-840-7191", "http://www.montgomeryschoolsmd.org/schools/whetstonees", "-77.1969947933", "39.1718688083", [ "{\"address\":\"19201 Thomas Farm Dr\",\"city\":\"Gaithersburg\",\"state\":\"MD\",\"zip\":\"20879\"}", "39.1718688083", "-77.1969947933", null, false ] ]
+, [ 153, "F7174767-B18C-4AE9-BCB3-10C0F1E1FE2E", 153, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "South Lake ES", "18201 Contour Rd", "Gaithersburg", "20877", "301-840-7141", "http://www.montgomeryschoolsmd.org/schools/southlakees", "-77.1969833619", "39.1558163309", [ "{\"address\":\"18201 Contour Rd\",\"city\":\"Gaithersburg\",\"state\":\"MD\",\"zip\":\"20877\"}", "39.1558163309", "-77.1969833619", null, false ] ]
+, [ 154, "DB4F62EC-CA41-43B1-9D2E-1148AF0D11FD", 154, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Watkins Mill ES", "19001 Watkins Mill Rd", "Montgomery Village", "20886", "301-840-7181", "http://www.montgomeryschoolsmd.org/schools/watkinsmilles", "-77.2110251862", "39.1672209879", [ "{\"address\":\"19001 Watkins Mill Rd\",\"city\":\"Montgomery Village\",\"state\":\"MD\",\"zip\":\"20886\"}", "39.1672209879", "-77.2110251862", null, false ] ]
+, [ 155, "291F97D6-3755-4BFF-8B83-B2235FA8F30D", 155, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Strawberry Knoll ES", "18820 Strawberry Knoll Rd", "Gaithersburg", "20879", "301-840-7112", "http://www.montgomeryschoolsmd.org/schools/strawberryknolles", "-77.1825348422", "39.1658673386", [ "{\"address\":\"18820 Strawberry Knoll Rd\",\"city\":\"Gaithersburg\",\"state\":\"MD\",\"zip\":\"20879\"}", "39.1658673386", "-77.1825348422", null, false ] ]
+, [ 156, "757BC4E1-C60E-4E26-A908-808C50C87B6B", 156, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Flower Hill ES", "18425 Flower Hill Way", "Gaithersburg", "20879", "301-840-7161", "http://www.montgomeryschoolsmd.org/schools/flowerhilles", "-77.1713034798", "39.1590075849", [ "{\"address\":\"18425 Flower Hill Way\",\"city\":\"Gaithersburg\",\"state\":\"MD\",\"zip\":\"20879\"}", "39.1590075849", "-77.1713034798", null, false ] ]
+, [ 157, "1153DA66-01DB-433D-9AE5-73B4B1E941F0", 157, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Stedwick ES", "10631 Stedwick Rd", "Montgomery Village", "20886", "301-840-7187", "http://www.montgomeryschoolsmd.org/schools/stedwickes", "-77.2111923449", "39.1743636993", [ "{\"address\":\"10631 Stedwick Rd\",\"city\":\"Montgomery Village\",\"state\":\"MD\",\"zip\":\"20886\"}", "39.1743636993", "-77.2111923449", null, false ] ]
+, [ 158, "5C5135AD-CC6A-4CAF-9A76-12446C06D3CE", 158, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "S Christa Mcauliffe ES", "12500 Wisteria Dr", "Germantown", "20874", "301-353-0910", "http://www.montgomeryschoolsmd.org/schools/mcauliffees", "-77.2609323153", "39.167507691", [ "{\"address\":\"12500 Wisteria Dr\",\"city\":\"Germantown\",\"state\":\"MD\",\"zip\":\"20874\"}", "39.167507691", "-77.2609323153", null, false ] ]
+, [ 159, "DDEA94CA-693B-431E-86F7-DA93AB4EFB33", 159, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Fox Chapel ES", "19315 Archdale Rd", "Germantown", "20876", "301-353-8055", "http://www.montgomeryschoolsmd.org/schools/foxchapeles", "-77.2421897485", "39.1722018594", [ "{\"address\":\"19315 Archdale Rd\",\"city\":\"Germantown\",\"state\":\"MD\",\"zip\":\"20876\"}", "39.1722018594", "-77.2421897485", null, false ] ]
+, [ 160, "4A1EB210-0C45-49C6-BBBA-1033D7B58792", 160, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Thurgood Marshall ES", "12260 McDonald Chapel Dr", "Gaithersburg", "20878", "301-670-8282", "http://www.montgomeryschoolsmd.org/schools/thurgoodmarshalles", "-77.2598691505", "39.1262200858", [ "{\"address\":\"12260 McDonald Chapel Dr\",\"city\":\"Gaithersburg\",\"state\":\"MD\",\"zip\":\"20878\"}", "39.1262200858", "-77.2598691505", null, false ] ]
+, [ 161, "0F1ACC29-5881-46E3-B413-B9E58D2CDD35", 161, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Diamond ES", "4 Marquis Dr", "Gaithersburg", "20878", "301-840-7177", "http://www.montgomeryschoolsmd.org/schools/diamondes", "-77.2389185172", "39.1357087649", [ "{\"address\":\"4 Marquis Dr\",\"city\":\"Gaithersburg\",\"state\":\"MD\",\"zip\":\"20878\"}", "39.1357087649", "-77.2389185172", null, false ] ]
+, [ 162, "217EF200-1C13-4D73-B278-C5317B6D516A", 162, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Brown Station ES", "851 Quince Orchard Blv", "Gaithersburg", "20878", "301-840-7172", "http://www.montgomeryschoolsmd.org/schools/brownstationes", "-77.2307127305", "39.1388830108", [ "{\"address\":\"851 Quince Orchard Blv\",\"city\":\"Gaithersburg\",\"state\":\"MD\",\"zip\":\"20878\"}", "39.1388830108", "-77.2307127305", null, false ] ]
+, [ 163, "0714FEB9-FE65-466D-9E60-FA4DFB330401", 163, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Travilah ES", "13801 DuFief Mill Rd", "North Potomac", "20878", "301-840-7153", "http://www.montgomeryschoolsmd.org/schools/travilahes", "-77.2486226133", "39.0824785544", [ "{\"address\":\"13801 DuFief Mill Rd\",\"city\":\"North Potomac\",\"state\":\"MD\",\"zip\":\"20878\"}", "39.0824785544", "-77.2486226133", null, false ] ]
+, [ 164, "8F6103C9-A0D4-4D02-A4E8-87A7A76C6855", 164, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Rachel Carson ES", "100 Tschiffely Square Rd", "Gaithersburg", "20878", "301-840-5333", "http://www.montgomeryschoolsmd.org/schools/rachelcarsones", "-77.2470359348", "39.1170772504", [ "{\"address\":\"100 Tschiffely Square Rd\",\"city\":\"Gaithersburg\",\"state\":\"MD\",\"zip\":\"20878\"}", "39.1170772504", "-77.2470359348", null, false ] ]
+, [ 165, "734BEF27-86F7-42B3-9C65-A581B49D60D3", 165, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Darnestown ES", "15030 Turkey Foot Rd", "Gaithersburg", "20878", "301-840-7157", "http://www.montgomeryschoolsmd.org/schools/darnestownes", "-77.2847480232", "39.1025388648", [ "{\"address\":\"15030 Turkey Foot Rd\",\"city\":\"Gaithersburg\",\"state\":\"MD\",\"zip\":\"20878\"}", "39.1025388648", "-77.2847480232", null, false ] ]
+, [ 166, "170B9B63-10AC-467E-9135-66E4CAA034C9", 166, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Jones Lane ES", "15110 Jones La", "Gaithersburg", "20878", "301-840-8160", "http://www.montgomeryschoolsmd.org/schools/joneslanees", "-77.2658471483", "39.1033700765", [ "{\"address\":\"15110 Jones La\",\"city\":\"Gaithersburg\",\"state\":\"MD\",\"zip\":\"20878\"}", "39.1033700765", "-77.2658471483", null, false ] ]
+, [ 167, "E3EB7EB8-2314-49B3-BCF9-170A3969EC08", 167, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Fields Road ES", "1 School Dr", "Gaithersburg", "20878", "301-840-7131", "http://www.montgomeryschoolsmd.org/schools/fieldsroades", "-77.2152401168", "39.118795239", [ "{\"address\":\"1 School Dr\",\"city\":\"Gaithersburg\",\"state\":\"MD\",\"zip\":\"20878\"}", "39.118795239", "-77.2152401168", null, false ] ]
+, [ 168, "CEBBC68A-EF1C-44C9-9807-2F959FD72B5C", 168, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Stone Mill ES", "14323 Stonebridge View Dr", "North Potomac", "20878", "301-279-4975", "http://www.montgomeryschoolsmd.org/schools/stonemilles", "-77.2144612215", "39.0916377183", [ "{\"address\":\"14323 Stonebridge View Dr\",\"city\":\"North Potomac\",\"state\":\"MD\",\"zip\":\"20878\"}", "39.0916377183", "-77.2144612215", null, false ] ]
+, [ 169, "8C28C3F2-C9FB-4E6F-B757-F8ABB984DCB3", 169, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Little Bennett ES", "23930 Burdette Forest Rd", "Clarksburg", "20871", "301-540-5535", "http://www.montgomeryschoolsmd.org/schools/littlebennettes", "-77.2753630947", "39.246445809", [ "{\"address\":\"23930 Burdette Forest Rd\",\"city\":\"Clarksburg\",\"state\":\"MD\",\"zip\":\"20871\"}", "39.246445809", "-77.2753630947", null, false ] ]
+, [ 170, "83A245C4-1B4C-479F-9ED9-385BDF6580A3", 170, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Sargent Shriver ES", "12518 Greenly Dr", "Silver Spring", "20906", "301-929-4426", "http://www.montgomeryschoolsmd.org/schools/shriveres", "-77.0791590245", "39.0615504152", [ "{\"address\":\"12518 Greenly Dr\",\"city\":\"Silver Spring\",\"state\":\"MD\",\"zip\":\"20906\"}", "39.0615504152", "-77.0791590245", null, false ] ]
+, [ 171, "6C453B2A-8221-4D78-B1DF-BDE58FE8EEE5", 171, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Roscoe R Nix ES", "1100 Corliss St", "Silver Spring", "20903", "301-422-5070", "http://www.montgomeryschoolsmd.org/schools/nixes", "-76.9896552883", "39.0168668083", [ "{\"address\":\"1100 Corliss St\",\"city\":\"Silver Spring\",\"state\":\"MD\",\"zip\":\"20903\"}", "39.0168668083", "-76.9896552883", null, false ] ]
+, [ 172, "0557C618-A5D0-4CB8-BAE2-2C6855DE76DF", 172, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Great Seneca Creek ES", "13010 Dairymaid Dr", "Germantown", "20874", "301-353-8500", "http://www.montgomeryschoolsmd.org/schools/greatsenecacreekes", "-77.2691896298", "39.1522616814", [ "{\"address\":\"13010 Dairymaid Dr\",\"city\":\"Germantown\",\"state\":\"MD\",\"zip\":\"20874\"}", "39.1522616814", "-77.2691896298", null, false ] ]
+, [ 173, "8C9F7A77-C82A-4A5C-AB1F-3CDAABD0226A", 173, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Arcola ES", "1820 Franwall Ave", "Silver Spring", "20902", "301-649-8590", "http://www.montgomeryschoolsmd.org/schools/arcolaes", "-77.0393881959", "39.0455588679", [ "{\"address\":\"1820 Franwall Ave\",\"city\":\"Silver Spring\",\"state\":\"MD\",\"zip\":\"20902\"}", "39.0455588679", "-77.0393881959", null, false ] ]
+, [ 174, "D63686AE-D613-45A0-BA47-4D8D88B05F01", 174, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "William B Gibbs Jr ES", "12615 Royal Crown Dr", "Clarksburg", "20876", "301-353-0800", "http://www.montgomeryschoolsmd.org/schools/gibbses/", "-77.2596251938", "39.2057196485", [ "{\"address\":\"12615 Royal Crown Dr\",\"city\":\"Clarksburg\",\"state\":\"MD\",\"zip\":\"20876\"}", "39.2057196485", "-77.2596251938", null, false ] ]
+, [ 175, "BECA58B3-67D6-4004-B1F3-BDA48483A95D", 175, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Cannon Road ES (at Fairland Center)", "13313 Old Columbia Pike", "Silver Spring", "20904", "301-989-5662", "http://www.montgomeryschoolsmd.org/schools/cannonroades", "-76.9578934897", "39.0746038591", [ "{\"address\":\"13313 Old Columbia Pike\",\"city\":\"Silver Spring\",\"state\":\"MD\",\"zip\":\"20904\"}", "39.0746038591", "-76.9578934897", null, false ] ]
+, [ 176, "601DF59D-B6C1-44AE-AB20-FB7F802ADA10", 176, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Beverly Farms ES (at North Lake Center)", "15101 Bauer Dr", "Rockville", "20853", "301-469-1050", "http://www.montgomeryschoolsmd.org/schools/beverlyfarmses", "-77.1040071157", "39.1027313861", [ "{\"address\":\"15101 Bauer Dr\",\"city\":\"Rockville\",\"state\":\"MD\",\"zip\":\"20853\"}", "39.1027313861", "-77.1040071157", null, false ] ]
+, [ 177, "BA95B117-3A78-4DEE-B898-99A17C0F68BE", 177, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Carderock Springs ES", "7401 Persimmon Tree La", "Bethesda", "20817", "301-469-1034", "http://www.montgomeryschoolsmd.org/schools/carderockspringses", "-77.1717600546", "38.9832956271", [ "{\"address\":\"7401 Persimmon Tree La\",\"city\":\"Bethesda\",\"state\":\"MD\",\"zip\":\"20817\"}", "38.9832956271", "-77.1717600546", null, false ] ]
+, [ 178, "9D678E8F-F15C-4A25-92C6-E0A6B9DC955A", 178, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Downcounty Consortium ES (2012)", "2600 Hayden Dr", "Silver Spring", "20902", "301-309-6277", "http://www.montgomeryschoolsmd.org/", "-77.0545584109", "39.0191171311", [ "{\"address\":\"2600 Hayden Dr\",\"city\":\"Silver Spring\",\"state\":\"MD\",\"zip\":\"20902\"}", "39.0191171311", "-77.0545584109", null, false ] ]
+, [ 179, "DD0D8E47-F37E-4703-8F5C-E06A67F23EA3", 179, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Garrett Park ES (at Grosvenor Center)", "5701 Grosvenor La", "Bethesda", "20814", "301-929-2170", "http://www.montgomeryschoolsmd.org/schools/garrettparkes", "-77.1141310594", "39.0235338133", [ "{\"address\":\"5701 Grosvenor La\",\"city\":\"Bethesda\",\"state\":\"MD\",\"zip\":\"20814\"}", "39.0235338133", "-77.1141310594", null, false ] ]
+, [ 180, "E6C89AA4-A260-40E2-9DA9-ADF9E4E521A3", 180, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Fallsmead ES", "1800 Greenplace Ter", "Rockville", "20850", "301-279-4984", "http://www.montgomeryschoolsmd.org/schools/fallsmeades", "-77.1765379964", "39.0779606451", [ "{\"address\":\"1800 Greenplace Ter\",\"city\":\"Rockville\",\"state\":\"MD\",\"zip\":\"20850\"}", "39.0779606451", "-77.1765379964", null, false ] ]
+, [ 181, "540203C5-D97A-4327-AEC2-7A636FA35BEE", 181, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Beall ES", "451 Beall Ave", "Rockville", "20850", "301-279-8460", "http://www.montgomeryschoolsmd.org/schools/bealles", "-77.161758368", "39.0877753931", [ "{\"address\":\"451 Beall Ave\",\"city\":\"Rockville\",\"state\":\"MD\",\"zip\":\"20850\"}", "39.0877753931", "-77.161758368", null, false ] ]
+, [ 182, "251BFD31-1F5C-4AD4-BD40-7318483CC5A5", 182, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "College Gardens ES", "1700 Yale Pl", "Rockville", "20850", "301-279-8470", "http://www.montgomeryschoolsmd.org/schools/collegegardenses", "-77.1627838116", "39.1028873778", [ "{\"address\":\"1700 Yale Pl\",\"city\":\"Rockville\",\"state\":\"MD\",\"zip\":\"20850\"}", "39.1028873778", "-77.1627838116", null, false ] ]
+, [ 183, "631F7355-A268-48A8-8E24-0E44CBBC790D", 183, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Dufief ES", "15001 DuFief Dr", "Gaithersburg", "20878", "301-279-4980", "http://www.montgomeryschoolsmd.org/schools/dufiefes", "-77.2375326482", "39.1018337081", [ "{\"address\":\"15001 DuFief Dr\",\"city\":\"Gaithersburg\",\"state\":\"MD\",\"zip\":\"20878\"}", "39.1018337081", "-77.2375326482", null, false ] ]
+, [ 184, "F5906480-3CDE-4F6F-8FAD-1629CC8923DA", 184, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Maryvale ES", "1000 First St", "Rockville", "20850", "301-279-4990", "http://www.montgomeryschoolsmd.org/schools/maryvalees", "-77.1369670183", "39.0912671214", [ "{\"address\":\"1000 First St\",\"city\":\"Rockville\",\"state\":\"MD\",\"zip\":\"20850\"}", "39.0912671214", "-77.1369670183", null, false ] ]
+, [ 185, "96D10BAF-888C-4C6B-8E9F-741B6C77E88E", 185, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Meadow Hall ES", "951 Twinbrook Pkwy", "Rockville", "20851", "301-279-4988", "http://www.montgomeryschoolsmd.org/schools/meadowhalles", "-77.1164059038", "39.0843521349", [ "{\"address\":\"951 Twinbrook Pkwy\",\"city\":\"Rockville\",\"state\":\"MD\",\"zip\":\"20851\"}", "39.0843521349", "-77.1164059038", null, false ] ]
+, [ 186, "1146CFB4-431C-4A1E-A2A9-B7F56A6C1902", 186, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Lucy V Barnsley ES", "14516 Nadine Dr", "Rockville", "20853", "301-460-2121", "http://www.montgomeryschoolsmd.org/schools/barnsleyes", "-77.103587056", "39.0941208289", [ "{\"address\":\"14516 Nadine Dr\",\"city\":\"Rockville\",\"state\":\"MD\",\"zip\":\"20853\"}", "39.0941208289", "-77.103587056", null, false ] ]
+, [ 187, "EC68800B-CBE4-431F-B734-61A215E9F036", 187, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Twinbrook ES", "5911 Ridgeway Ave", "Rockville", "20851", "301-230-5925", "http://www.montgomeryschoolsmd.org/schools/twinbrookes", "-77.1200953184", "39.0687280318", [ "{\"address\":\"5911 Ridgeway Ave\",\"city\":\"Rockville\",\"state\":\"MD\",\"zip\":\"20851\"}", "39.0687280318", "-77.1200953184", null, false ] ]
+, [ 188, "16D2C96F-12F9-4478-9548-D0D1055F8134", 188, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Rock Creek Valley ES", "5121 Russett Rd", "Rockville", "20853", "301-460-2195", "http://www.montgomeryschoolsmd.org/schools/rcvalleyes", "-77.102608554", "39.0832114316", [ "{\"address\":\"5121 Russett Rd\",\"city\":\"Rockville\",\"state\":\"MD\",\"zip\":\"20853\"}", "39.0832114316", "-77.102608554", null, false ] ]
+, [ 189, "72339E33-4F62-4392-8C22-F69EF58F52F6", 189, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Brookhaven ES", "4610 Renn St", "Rockville", "20853", "301-460-2140", "http://www.montgomeryschoolsmd.org/schools/brookhavenes", "-77.0925980063", "39.0822509877", [ "{\"address\":\"4610 Renn St\",\"city\":\"Rockville\",\"state\":\"MD\",\"zip\":\"20853\"}", "39.0822509877", "-77.0925980063", null, false ] ]
+, [ 190, "246B6A37-3CAC-4638-A48A-E3E92591758D", 190, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Flower Valley ES", "4615 Sunflower Dr", "Rockville", "20853", "301-924-3135", "http://www.montgomeryschoolsmd.org/schools/flowervalleyes", "-77.0930515019", "39.1057704102", [ "{\"address\":\"4615 Sunflower Dr\",\"city\":\"Rockville\",\"state\":\"MD\",\"zip\":\"20853\"}", "39.1057704102", "-77.0930515019", null, false ] ]
+, [ 191, "A83E9103-1F66-41FD-A99E-003ABFFB5DEF", 191, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Strathmore ES", "3200 Beaverwood La", "Silver Spring", "20906", "301-460-2135", "http://www.montgomeryschoolsmd.org/schools/strathmorees", "-77.0654349871", "39.0860669739", [ "{\"address\":\"3200 Beaverwood La\",\"city\":\"Silver Spring\",\"state\":\"MD\",\"zip\":\"20906\"}", "39.0860669739", "-77.0654349871", null, false ] ]
+, [ 192, "1C6AAEF2-7559-484D-9A7A-B28AE7134ECD", 192, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Judith A Resnik ES", "7301 Hadley Farms Dr", "Gaithersburg", "20879", "301-670-8200", "http://www.montgomeryschoolsmd.org/schools/resnikes", "-77.1519858022", "39.181576738", [ "{\"address\":\"7301 Hadley Farms Dr\",\"city\":\"Gaithersburg\",\"state\":\"MD\",\"zip\":\"20879\"}", "39.181576738", "-77.1519858022", null, false ] ]
+, [ 193, "32C0ADDD-B731-4B34-B5AD-3CB1349F94D7", 193, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Laytonsville ES", "21401 Laytonsville Rd", "Laytonsville", "20882", "301-840-7145", "http://www.montgomeryschoolsmd.org/schools/laytonsvillees", "-77.1403377171", "39.2070466834", [ "{\"address\":\"21401 Laytonsville Rd\",\"city\":\"Laytonsville\",\"state\":\"MD\",\"zip\":\"20882\"}", "39.2070466834", "-77.1403377171", null, false ] ]
+, [ 194, "A8FF3F3B-878D-4EC8-809B-10C5D288D5E5", 194, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Goshen ES", "8701 Warfield Rd", "Gaithersburg", "20882", "301-840-8165", "http://www.montgomeryschoolsmd.org/schools/goshenes", "-77.1798890434", "39.194373374", [ "{\"address\":\"8701 Warfield Rd\",\"city\":\"Gaithersburg\",\"state\":\"MD\",\"zip\":\"20882\"}", "39.194373374", "-77.1798890434", null, false ] ]
+, [ 195, "268959CC-85C7-414B-A46F-5F112FFD9FAC", 195, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Ronald McNair ES", "13881 Hopkins Rd", "Germantown", "20874", "301-353-0854", "http://www.montgomeryschoolsmd.org/schools/ronaldmcnaires", "-77.2905682704", "39.1697657621", [ "{\"address\":\"13881 Hopkins Rd\",\"city\":\"Germantown\",\"state\":\"MD\",\"zip\":\"20874\"}", "39.1697657621", "-77.2905682704", null, false ] ]
+, [ 196, "8C69ECDA-663D-495D-8EEA-E8E1546C79D2", 196, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Lake Seneca ES", "13600 Wanegarden Dr", "Germantown", "20874", "301-353-0929", "http://www.montgomeryschoolsmd.org/schools/lakesenecaes", "-77.2831202702", "39.1832743058", [ "{\"address\":\"13600 Wanegarden Dr\",\"city\":\"Germantown\",\"state\":\"MD\",\"zip\":\"20874\"}", "39.1832743058", "-77.2831202702", null, false ] ]
+, [ 197, "C85D941C-1EA8-48BA-8B52-FC9E287F4303", 197, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Clopper Mill ES", "18501 Cinnamon Dr", "Germantown", "20874", "301-353-8065", "http://www.montgomeryschoolsmd.org/schools/cloppermilles", "-77.2616942414", "39.1590306504", [ "{\"address\":\"18501 Cinnamon Dr\",\"city\":\"Germantown\",\"state\":\"MD\",\"zip\":\"20874\"}", "39.1590306504", "-77.2616942414", null, false ] ]
+, [ 198, "35253F08-F32F-4678-90F5-7158DAFA7B22", 198, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Germantown ES", "19110 Liberty Mill Road", "Germantown", "20874", "301-353-8050", "http://www.montgomeryschoolsmd.org/schools/germantownes", "-77.27642324", "39.1698143709", [ "{\"address\":\"19110 Liberty Mill Road\",\"city\":\"Germantown\",\"state\":\"MD\",\"zip\":\"20874\"}", "39.1698143709", "-77.27642324", null, false ] ]
+, [ 199, "308965EF-548F-4599-B3BF-D2A9B5B78B40", 199, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Poolesville ES", "19565 Fisher Ave", "Poolesville", "20837", "301-972-7960", "http://www.montgomeryschoolsmd.org/schools/poolesvillees", "-77.4074075374", "39.1440313164", [ "{\"address\":\"19565 Fisher Ave\",\"city\":\"Poolesville\",\"state\":\"MD\",\"zip\":\"20837\"}", "39.1440313164", "-77.4074075374", null, false ] ]
+, [ 200, "58CD5233-503F-4F4B-9AFA-1269777601D1", 200, 1330514032, "402824", 1330514032, "402824", "{\n}", "ELEMENTARY SCHOOLS", "Monocacy ES", "18801 Barnesville Rd", "Dickerson", "20842", "301-972-7990", "http://www.montgomeryschoolsmd.org/schools/monocacyes", "-77.392841199", "39.224265906", [ "{\"address\":\"18801 Barnesville Rd\",\"city\":\"Dickerson\",\"state\":\"MD\",\"zip\":\"20842\"}", "39.224265906", "-77.392841199", null, false ] ]
+ ]
+}

@@ -1,0 +1,3812 @@
+{  
+   "type":"FeatureCollection",
+   "name":"montgomeryschools",
+   "crs":{  
+      "type":"name",
+      "properties":{  
+         "name":"urn:ogc:def:crs:OGC:1.3:CRS84"
+      }
+   },
+   "features":[  
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"MIDDLE SCHOOLS",
+            "name":"Earle B. Wood MS",
+            "address":"14615 Bauer Dr",
+            "city":"Rockville",
+            "zip":"20852",
+            "phone":"301-460-2150",
+            "website":"http://www.montgomeryschoolsmd.org/schools/woodms"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.1075293636,
+               39.093294956
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"MIDDLE SCHOOLS",
+            "name":"Parkland MS",
+            "address":"4610 W Frankfort Dr",
+            "city":"Rockville",
+            "zip":"20853",
+            "phone":"301-438-5700",
+            "website":"http://www.montgomeryschoolsmd.org/schools/parklandms"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.0916686732,
+               39.0841517945
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"MIDDLE SCHOOLS",
+            "name":"Briggs Chaney MS",
+            "address":"1901 Rainbow Dr",
+            "city":"Silver Spring",
+            "zip":"20905",
+            "phone":"301-989-6000",
+            "website":"http://www.montgomeryschoolsmd.org/schools/briggschaneyms"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -76.9714624882,
+               39.1097896862
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"MIDDLE SCHOOLS",
+            "name":"Martin Luther King MS",
+            "address":"13737 Wisteria Dr",
+            "city":"Germantown",
+            "zip":"20874",
+            "phone":"301-353-8080",
+            "website":"http://www.montgomeryschoolsmd.org/schools/mlkms"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.2851000471,
+               39.1809127605
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"MIDDLE SCHOOLS",
+            "name":"Kingsview MS",
+            "address":"18909 Kingsview Rd",
+            "city":"Germantown",
+            "zip":"20874",
+            "phone":"301-601-4611",
+            "website":"http://www.montgomeryschoolsmd.org/schools/kingsviewms"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.2850448312,
+               39.1661607823
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"MIDDLE SCHOOLS",
+            "name":"Argyle MS",
+            "address":"2400 Bel Pre Rd",
+            "city":"Silver Spring",
+            "zip":"20906",
+            "phone":"301-460-2400",
+            "website":"http://www.montgomeryschoolsmd.org/schools/argylems"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.048924226,
+               39.0895212498
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"MIDDLE SCHOOLS",
+            "name":"Rocky Hill MS",
+            "address":"22401 Brick Haven Way",
+            "city":"Clarksburg",
+            "zip":"20871",
+            "phone":"301-353-8282",
+            "website":"http://www.montgomeryschoolsmd.org/schools/rockyhillms"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.2634759958,
+               39.2218821148
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"MIDDLE SCHOOLS",
+            "name":"Neelsville MS",
+            "address":"11700 Neelsville Church Rd",
+            "city":"Germantown",
+            "zip":"20876",
+            "phone":"301-353-8064",
+            "website":"http://www.montgomeryschoolsmd.org/schools/neelsvillems"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.2405597451,
+               39.1940928847
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"MIDDLE SCHOOLS",
+            "name":"John T Baker MS",
+            "address":"25400 Oak Dr",
+            "city":"Damascus",
+            "zip":"20872",
+            "phone":"301-253-7010",
+            "website":"http://www.montgomeryschoolsmd.org/schools/bakerms"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.2187711116,
+               39.2741001904
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"MIDDLE SCHOOLS",
+            "name":"Thomas W Pyle MS",
+            "address":"6311 Wilson La",
+            "city":"Bethesda",
+            "zip":"20817",
+            "phone":"301-320-6540",
+            "website":"http://www.montgomeryschoolsmd.org/schools/pylems"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.1296136734,
+               38.9888410039
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"MIDDLE SCHOOLS",
+            "name":"Westland MS",
+            "address":"5511 Massachusetts Ave",
+            "city":"Bethesda",
+            "zip":"20816",
+            "phone":"301-320-6515",
+            "website":"http://www.montgomeryschoolsmd.org/schools/westlandms"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.1089289733,
+               38.9603838716
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"MIDDLE SCHOOLS",
+            "name":"North Bethesda MS",
+            "address":"8935 Bradmoor Dr",
+            "city":"Bethesda",
+            "zip":"20817",
+            "phone":"301-571-3883",
+            "website":"http://www.montgomeryschoolsmd.org/schools/northbethesdams"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.1248538896,
+               39.0045827558
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"MIDDLE SCHOOLS",
+            "name":"Herbert Hoover MS (Construction)",
+            "address":"8810 Post Oak Rd",
+            "city":"Potomac",
+            "zip":"20854",
+            "phone":"301-469-1010",
+            "website":"http://www.montgomeryschoolsmd.org/schools/hooverms"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.1786375804,
+               39.0448587758
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"MIDDLE SCHOOLS",
+            "name":"Tilden MS",
+            "address":"11211 Old Georgetown Rd",
+            "city":"Rockville",
+            "zip":"20852",
+            "phone":"301-230-5930",
+            "website":"http://www.montgomeryschoolsmd.org/schools/tildenms"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.1219142526,
+               39.038258394
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"MIDDLE SCHOOLS",
+            "name":"Cabin John MS",
+            "address":"10701 Gainsborough Rd",
+            "city":"Potomac",
+            "zip":"20854",
+            "phone":"301-469-1150",
+            "website":"http://www.montgomeryschoolsmd.org/schools/cabinjohnms"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.1720217394,
+               39.0315783821
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"MIDDLE SCHOOLS",
+            "name":"Takoma Park MS",
+            "address":"7611 Piney Branch Rd",
+            "city":"Takoma Park",
+            "zip":"20910",
+            "phone":"301-650-6444",
+            "website":"http://www.montgomeryschoolsmd.org/schools/takomaparkms"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.0130811462,
+               38.9854294113
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"MIDDLE SCHOOLS",
+            "name":"Silver Spring International MS",
+            "address":"313 Wayne Ave",
+            "city":"Silver Spring",
+            "zip":"20910",
+            "phone":"301-650-6544",
+            "website":"http://www.montgomeryschoolsmd.org/schools/ssims"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.0147746936,
+               39.0005798316
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"MIDDLE SCHOOLS",
+            "name":"Sligo MS",
+            "address":"1401 Dennis Ave",
+            "city":"Silver Spring",
+            "zip":"20902",
+            "phone":"301-649-8121",
+            "website":"http://www.montgomeryschoolsmd.org/schools/sligoms"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.0328776196,
+               39.0267787982
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"MIDDLE SCHOOLS",
+            "name":"Francis Scott Key MS",
+            "address":"910 Schindler Dr",
+            "city":"Silver Spring",
+            "zip":"20903",
+            "phone":"301-422-5600",
+            "website":"http://www.montgomeryschoolsmd.org/schools/fskms"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -76.9922116369,
+               39.0276166438
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"MIDDLE SCHOOLS",
+            "name":"Eastern MS",
+            "address":"300 E University Blv",
+            "city":"Silver Spring",
+            "zip":"20901",
+            "phone":"301-650-6650",
+            "website":"http://www.montgomeryschoolsmd.org/schools/easternms"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.0008858418,
+               39.0118461813
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"MIDDLE SCHOOLS",
+            "name":"Col E Brooke Lee MS",
+            "address":"11800 Monticello Ave",
+            "city":"Silver Spring",
+            "zip":"20902",
+            "phone":"301-649-8100",
+            "website":"http://www.montgomeryschoolsmd.org/schools/leems"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.0307001852,
+               39.0496028325
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"MIDDLE SCHOOLS",
+            "name":"White Oak MS",
+            "address":"12201 New Hampshire Ave",
+            "city":"Silver Spring",
+            "zip":"20904",
+            "phone":"301-989-5780",
+            "website":"http://www.montgomeryschoolsmd.org/schools/whiteoakms"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -76.9953329495,
+               39.0565217301
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"MIDDLE SCHOOLS",
+            "name":"Forest Oak MS",
+            "address":"651 Saybrooke Oaks Blv",
+            "city":"Gaithersburg",
+            "zip":"20877",
+            "phone":"301-670-8242",
+            "website":"http://www.montgomeryschoolsmd.org/schools/forestoakms"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.1844656503,
+               39.1535621295
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"MIDDLE SCHOOLS",
+            "name":"John Poole MS",
+            "address":"17014 Tom Fox Ave",
+            "city":"Poolesville",
+            "zip":"20837",
+            "phone":"301-972-7979",
+            "website":"http://www.montgomeryschoolsmd.org/schools/poolems"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.410844519,
+               39.1260537267
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"MIDDLE SCHOOLS",
+            "name":"A Mario Loiederman MS",
+            "address":"12701 Goodhill Rd",
+            "city":"Silver Spring",
+            "zip":"20906",
+            "phone":"301-929-2282",
+            "website":"http://www.montgomeryschoolsmd.org/schools/loiedermanms"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.0708351501,
+               39.065306494
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"MIDDLE SCHOOLS",
+            "name":"Lakelands Park MS",
+            "address":"1200 Main St",
+            "city":"Gaithersburg",
+            "zip":"20878",
+            "phone":"301-670-1400",
+            "website":"http://www.montgomeryschoolsmd.org/schools/lakelandsparkms"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.2329591425,
+               39.115512598
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"MIDDLE SCHOOLS",
+            "name":"Herbert Hoover MS (at Tilden Center)",
+            "address":"6300 Tilden La",
+            "city":"Rockville",
+            "zip":"20852",
+            "phone":"301-469-1010",
+            "website":"http://www.montgomeryschoolsmd.org/schools/hooverms"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.1305753352,
+               39.0423221394
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"MIDDLE SCHOOLS",
+            "name":"Benjamin Banneker MS",
+            "address":"14800 Perrywood Dr",
+            "city":"Burtonsville",
+            "zip":"20866",
+            "phone":"301-989-5747",
+            "website":"http://www.montgomeryschoolsmd.org/schools/bannekerms"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -76.948403246,
+               39.0960860509
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"MIDDLE SCHOOLS",
+            "name":"William H Farquhar MS",
+            "address":"16915 Batchellors Forest Rd",
+            "city":"Olney",
+            "zip":"20832",
+            "phone":"301-924-3100",
+            "website":"http://www.montgomeryschoolsmd.org/schools/farquharms"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.0450643632,
+               39.134332601
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"MIDDLE SCHOOLS",
+            "name":"Rosa M Parks MS",
+            "address":"19200 Olney Mill Rd",
+            "city":"Olney",
+            "zip":"20832",
+            "phone":"301-924-3180",
+            "website":"http://www.montgomeryschoolsmd.org/schools/rosaparksms"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.0811949528,
+               39.1719982569
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"MIDDLE SCHOOLS",
+            "name":"Shady Grove MS",
+            "address":"8100 Midcounty Hwy",
+            "city":"Gaithersburg",
+            "zip":"20877",
+            "phone":"301-548-7540",
+            "website":"http://www.montgomeryschoolsmd.org/schools/shadygrovems"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.1626472824,
+               39.1431549327
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"MIDDLE SCHOOLS",
+            "name":"Redland MS",
+            "address":"6505 Muncaster Mill Rd",
+            "city":"Rockville",
+            "zip":"20855",
+            "phone":"301-840-4680",
+            "website":"http://www.montgomeryschoolsmd.org/schools/redlandms"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.1319130755,
+               39.1405182884
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"MIDDLE SCHOOLS",
+            "name":"Newport Mill MS",
+            "address":"11311 Newport Mill Rd",
+            "city":"Kensington",
+            "zip":"20895",
+            "phone":"301-929-2244",
+            "website":"http://www.montgomeryschoolsmd.org/schools/newportmillms"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.0677974108,
+               39.041512287
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"MIDDLE SCHOOLS",
+            "name":"Gaithersburg MS",
+            "address":"2 Teachers Way",
+            "city":"Gaithersburg",
+            "zip":"20877",
+            "phone":"301-840-4554",
+            "website":"http://www.montgomeryschoolsmd.org/schools/gaithersburgms"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.1875725096,
+               39.1437648079
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"MIDDLE SCHOOLS",
+            "name":"Montgomery Village MS",
+            "address":"19300 Watkins Mill Rd",
+            "city":"Montgomery Village",
+            "zip":"20886",
+            "phone":"301-840-4660",
+            "website":"http://www.montgomeryschoolsmd.org/schools/mvms"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.2094293659,
+               39.1725103244
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"MIDDLE SCHOOLS",
+            "name":"Roberto W Clemente MS",
+            "address":"18808 Waring Station Rd",
+            "city":"Germantown",
+            "zip":"20874",
+            "phone":"301-601-0344",
+            "website":"http://www.montgomeryschoolsmd.org/schools/clementems"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.2479808749,
+               39.165823052
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"MIDDLE SCHOOLS",
+            "name":"Ridgeview MS",
+            "address":"16600 Raven Rock Dr",
+            "city":"Gaithersburg",
+            "zip":"20878",
+            "phone":"240-406-1300",
+            "website":"http://www.montgomeryschoolsmd.org/schools/ridgeviewms"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.249263077,
+               39.127656608
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"MIDDLE SCHOOLS",
+            "name":"Robert Frost MS",
+            "address":"9201 Scott Dr",
+            "city":"Rockville",
+            "zip":"20850",
+            "phone":"301-279-3949",
+            "website":"http://www.montgomeryschoolsmd.org/schools/robertfrostms"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.1876235891,
+               39.0759509206
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"MIDDLE SCHOOLS",
+            "name":"Julius West MS",
+            "address":"651 Great Falls Rd",
+            "city":"Rockville",
+            "zip":"20850",
+            "phone":"301-279-3979",
+            "website":"http://www.montgomeryschoolsmd.org/schools/westms"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.1638855665,
+               39.0767475193
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"HIGH SCHOOLS",
+            "name":"Richard Montgomery HS",
+            "address":"250 Richard Montgomery Dr",
+            "city":"Rockville",
+            "zip":"20852",
+            "phone":"301-610-8000",
+            "website":"http://www.montgomeryschoolsmd.org/schools/rmhs"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.1457297834,
+               39.0772920776
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"HIGH SCHOOLS",
+            "name":"Rockville HS",
+            "address":"2100 Baltimore Rd",
+            "city":"Rockville",
+            "zip":"20851",
+            "phone":"301-517-8105",
+            "website":"http://www.montgomeryschoolsmd.org/schools/rockvillehs"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.1182723989,
+               39.0863478113
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"HIGH SCHOOLS",
+            "name":"Northwest HS",
+            "address":"13501 Richter Farm Rd",
+            "city":"Germantown",
+            "zip":"20874",
+            "phone":"301-601-4660",
+            "website":"http://www.montgomeryschoolsmd.org/schools/northwesths"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.2793294162,
+               39.1515925975
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"HIGH SCHOOLS",
+            "name":"Walter Johnson HS",
+            "address":"6400 Rock Spring Dr",
+            "city":"Bethesda",
+            "zip":"20814",
+            "phone":"301-803-7100",
+            "website":"http://www.montgomeryschoolsmd.org/schools/wjhs"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.1301017226,
+               39.0253918855
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"HIGH SCHOOLS",
+            "name":"Montgomery Blair HS",
+            "address":"51 E University Blv",
+            "city":"Silver Spring",
+            "zip":"20901",
+            "phone":"301-649-2800",
+            "website":"http://www.mbhs.edu"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.0124342871,
+               39.0182729296
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"HIGH SCHOOLS",
+            "name":"Poolesville HS",
+            "address":"17501 Willard Rd",
+            "city":"Poolesville",
+            "zip":"20837",
+            "phone":"301-972-7900",
+            "website":"http://www.montgomeryschoolsmd.org/schools/poolesvillehs"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.4187801451,
+               39.1431033716
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"HIGH SCHOOLS",
+            "name":"Watkins Mill HS",
+            "address":"10301 Apple Ridge Rd",
+            "city":"Gaithersburg",
+            "zip":"20879",
+            "phone":"301-840-3959",
+            "website":"http://www.montgomeryschoolsmd.org/schools/watkinsmillhs"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.215836205,
+               39.183966701
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"HIGH SCHOOLS",
+            "name":"Damascus HS",
+            "address":"25921 Ridge Rd",
+            "city":"Damascus",
+            "zip":"20872",
+            "phone":"301-253-7030",
+            "website":"http://www.montgomeryschoolsmd.org/schools/damascushs"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.2100198748,
+               39.2824956463
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"HIGH SCHOOLS",
+            "name":"Walt Whitman HS",
+            "address":"7100 Whittier Blv",
+            "city":"Bethesda",
+            "zip":"20817",
+            "phone":"301-320-6600",
+            "website":"http://www.montgomeryschoolsmd.org/schools/whitmanhs"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.1276727865,
+               38.9816307564
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"HIGH SCHOOLS",
+            "name":"Bethesda-Chevy Chase HS",
+            "address":"4301 East West Hwy",
+            "city":"Bethesda",
+            "zip":"20814",
+            "phone":"240-497-6300",
+            "website":"http://www.montgomeryschoolsmd.org/schools/bcchs"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.0889699717,
+               38.9868264765
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"HIGH SCHOOLS",
+            "name":"Winston Churchill HS",
+            "address":"11300 Gainsborough Rd",
+            "city":"Potomac",
+            "zip":"20854",
+            "phone":"301-469-1200",
+            "website":"http://www.montgomeryschoolsmd.org/schools/churchillhs"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.1731281364,
+               39.0443047898
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"HIGH SCHOOLS",
+            "name":"Albert Einstein HS",
+            "address":"11135 Newport Mill Rd",
+            "city":"Kensington",
+            "zip":"20895",
+            "phone":"301-929-2200",
+            "website":"http://www.montgomeryschoolsmd.org/schools/einsteinhs"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.0670360163,
+               39.0396158925
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"HIGH SCHOOLS",
+            "name":"Wheaton HS",
+            "address":"12601 Dalewood Dr",
+            "city":"Silver Spring",
+            "zip":"20906",
+            "phone":"301-929-2050",
+            "website":"http://www.montgomeryschoolsmd.org/schools/wheatonhs"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.0666690813,
+               39.0613378725
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"HIGH SCHOOLS",
+            "name":"John F Kennedy HS",
+            "address":"1901 Randolph Rd",
+            "city":"Silver Spring",
+            "zip":"20902",
+            "phone":"301-929-2100",
+            "website":"http://www.montgomeryschoolsmd.org/schools/kennedyhs"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.039027838,
+               39.0657502712
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"HIGH SCHOOLS",
+            "name":"Springbrook HS",
+            "address":"201 Valley Brook Dr",
+            "city":"Silver Spring",
+            "zip":"20904",
+            "phone":"301-989-5700",
+            "website":"http://www.montgomeryschoolsmd.org/schools/springbrookhs"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.0056814998,
+               39.0578019375
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"HIGH SCHOOLS",
+            "name":"Paint Branch HS",
+            "address":"14121 Old Columbia Pik",
+            "city":"Burtonsville",
+            "zip":"20866",
+            "phone":"301-989-5600",
+            "website":"http://www.montgomeryschoolsmd.org/schools/paintbranchhs"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -76.9471015401,
+               39.0886791828
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"HIGH SCHOOLS",
+            "name":"James Hubert Blake HS",
+            "address":"300 Norwood Rd",
+            "city":"Silver Spring",
+            "zip":"20905",
+            "phone":"301-879-1300",
+            "website":"http://www.montgomeryschoolsmd.org/schools/blakehs"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.0175061321,
+               39.1133304559
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"HIGH SCHOOLS",
+            "name":"Northwood HS",
+            "address":"919 University Blv W",
+            "city":"Silver Spring",
+            "zip":"20901",
+            "phone":"301-649-8088",
+            "website":"http://www.montgomeryschoolsmd.org/schools/northwoodhs"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.0224839838,
+               39.0356942671
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"HIGH SCHOOLS",
+            "name":"Clarksburg HS",
+            "address":"22500 Wims Rd",
+            "city":"Clarksburg",
+            "zip":"20871",
+            "phone":"301-444-3000",
+            "website":"http://www.montgomeryschoolsmd.org/schools/clarksburghs"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.2655866221,
+               39.225501825
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"HIGH SCHOOLS",
+            "name":"Sherwood HS",
+            "address":"300 Olney Sandy Spring Rd",
+            "city":"Sandy Spring",
+            "zip":"20860",
+            "phone":"301-924-3200",
+            "website":"http://www.montgomeryschoolsmd.org/schools/sherwoodhs"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.018771801,
+               39.148342372
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"HIGH SCHOOLS",
+            "name":"Col Zadok Magruder HS",
+            "address":"5939 Muncaster Mill Rd",
+            "city":"Rockville",
+            "zip":"20855",
+            "phone":"301-840-4600",
+            "website":"http://www.montgomeryschoolsmd.org/schools/magruderhs"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.1188059149,
+               39.1313109818
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"HIGH SCHOOLS",
+            "name":"Gaithersburg HS",
+            "address":"314 S Frederick Ave",
+            "city":"Gaithersburg",
+            "zip":"20877",
+            "phone":"301-840-4700",
+            "website":"http://www.montgomeryschoolsmd.org/schools/gaithsbghs"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.1954776183,
+               39.1348394458
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"HIGH SCHOOLS",
+            "name":"Seneca Valley HS",
+            "address":"19401 Crystal Rock Dr",
+            "city":"Germantown",
+            "zip":"20874",
+            "phone":"301-353-8000",
+            "website":"http://www.montgomeryschoolsmd.org/schools/senecavalleyhs"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.2643319443,
+               39.1750937217
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"HIGH SCHOOLS",
+            "name":"Quince Orchard HS",
+            "address":"15800 Quince Orchard Rd",
+            "city":"Gaithersburg",
+            "zip":"20878",
+            "phone":"301-840-4686",
+            "website":"http://www.montgomeryschoolsmd.org/schools/qohs"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.254239085,
+               39.1159327009
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"HIGH SCHOOLS",
+            "name":"Thomas S Wootton HS",
+            "address":"2100 Wootton Pkw",
+            "city":"Rockville",
+            "zip":"20850",
+            "phone":"301-279-8550",
+            "website":"http://www.montgomeryschoolsmd.org/schools/woottonhs"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.1831974358,
+               39.0765821359
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Dr Sally K Ride ES",
+            "address":"21301 Seneca Crossing Dr",
+            "city":"Germantown",
+            "zip":"20876",
+            "phone":"301-353-0994",
+            "website":"http://www.montgomeryschoolsmd.org/schools/ridees"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.2373667612,
+               39.2068179297
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Capt James E Daly ES",
+            "address":"20301 Brandermill Dr",
+            "city":"Germantown",
+            "zip":"20876",
+            "phone":"301-353-0939",
+            "website":"http://www.montgomeryschoolsmd.org/schools/dalyes"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.232435198,
+               39.1894917072
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Waters Landing ES",
+            "address":"13100 Waters Landing Dr",
+            "city":"Germantown",
+            "zip":"20874",
+            "phone":"301-353-0915",
+            "website":"http://www.montgomeryschoolsmd.org/schools/waterslandinges"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.2686132909,
+               39.1886082714
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Damascus ES",
+            "address":"10201 Bethesda Church Rd",
+            "city":"Damascus",
+            "zip":"20872",
+            "phone":"301-253-7080",
+            "website":"http://www.montgomeryschoolsmd.org/schools/damascuses"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.2110705499,
+               39.285505588
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Cedar Grove ES",
+            "address":"24001 Ridge Rd",
+            "city":"Germantown",
+            "zip":"20876",
+            "phone":"301-253-7000",
+            "website":"http://www.montgomeryschoolsmd.org/schools/cedargrovees"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.2322649942,
+               39.2493904272
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Clearspring ES",
+            "address":"9930 Moyer Rd",
+            "city":"Damascus",
+            "zip":"20872",
+            "phone":"301-253-7004",
+            "website":"http://www.montgomeryschoolsmd.org/schools/clearspringes"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.2073011632,
+               39.265783191
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Lois P Rockwell ES",
+            "address":"24555 Cutsail Dr",
+            "city":"Damascus",
+            "zip":"20872",
+            "phone":"301-253-7088",
+            "website":"http://www.montgomeryschoolsmd.org/schools/rockwelles"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.2141008476,
+               39.2562232443
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Woodfield ES",
+            "address":"24200 Woodfield Rd",
+            "city":"Gaithersburg",
+            "zip":"20879",
+            "phone":"301-253-7085",
+            "website":"http://www.montgomeryschoolsmd.org/schools/woodfieldes"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.1982813985,
+               39.2527827289
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Clarksburg ES",
+            "address":"13530 Redgrave Pl",
+            "city":"Clarksburg",
+            "zip":"20871",
+            "phone":"301-353-8060",
+            "website":"http://www.montgomeryschoolsmd.org/schools/clarksburges"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.2815170741,
+               39.2368552824
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Chevy Chase ES",
+            "address":"4015 Rosemary St",
+            "city":"Chevy Chase",
+            "zip":"20815",
+            "phone":"301-657-4994",
+            "website":"http://www.montgomeryschoolsmd.org/schools/chevychasees"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.0802384598,
+               38.9785671729
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Bannockburn ES",
+            "address":"6520 Dalroy La",
+            "city":"Bethesda",
+            "zip":"20817",
+            "phone":"301-320-6555",
+            "website":"http://www.montgomeryschoolsmd.org/schools/bannockburnes"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.1383339932,
+               38.974375007
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Burning Tree ES",
+            "address":"7900 Beech Tree Rd",
+            "city":"Bethesda",
+            "zip":"20817",
+            "phone":"301-320-6510",
+            "website":"http://www.montgomeryschoolsmd.org/schools/burningtreees"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.1433852431,
+               38.9899689499
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Wood Acres ES",
+            "address":"5800 Cromwell Dr",
+            "city":"Bethesda",
+            "zip":"20816",
+            "phone":"301-320-6502",
+            "website":"http://www.montgomeryschoolsmd.org/schools/woodacreses"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.1186718959,
+               38.9675865435
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Somerset ES",
+            "address":"5811 Warwick Pl",
+            "city":"Chevy Chase",
+            "zip":"20815",
+            "phone":"301-657-4985",
+            "website":"http://www.montgomeryschoolsmd.org/schools/somersetes"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.092408162,
+               38.9691922144
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Westbrook ES",
+            "address":"5110 Allan Ter",
+            "city":"Bethesda",
+            "zip":"20816",
+            "phone":"301-320-6506",
+            "website":"http://www.montgomeryschoolsmd.org/schools/westbrookes"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.1028193264,
+               38.9584710865
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Bethesda ES",
+            "address":"7600 Arlington Rd",
+            "city":"Bethesda",
+            "zip":"20814",
+            "phone":"301-657-4979",
+            "website":"http://www.montgomeryschoolsmd.org/schools/bethesdaes"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.0998645245,
+               38.9864595389
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Bradley Hills ES",
+            "address":"8701 Hartsdale Ave",
+            "city":"Bethesda",
+            "zip":"20817",
+            "phone":"301-571-6966",
+            "website":"http://www.montgomeryschoolsmd.org/schools/bradleyhillses"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.118061653,
+               38.9996852991
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Wayside ES",
+            "address":"10011 Glen Rd",
+            "city":"Potomac",
+            "zip":"20854",
+            "phone":"301-279-8484",
+            "website":"http://www.montgomeryschoolsmd.org/schools/waysidees"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.2061907116,
+               39.0475503295
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Beverly Farms ES (Construction)",
+            "address":"8501 Post Oak Rd",
+            "city":"Potomac",
+            "zip":"20854",
+            "phone":"301-469-1050",
+            "website":"http://www.montgomeryschoolsmd.org/schools/beverlyfarmses"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.1763322374,
+               39.052145262
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Ritchie Park ES",
+            "address":"1514 Dunster Rd",
+            "city":"Rockville",
+            "zip":"20854",
+            "phone":"301-279-8475",
+            "website":"http://www.montgomeryschoolsmd.org/schools/ritchieparkes"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.1744365305,
+               39.0631353305
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Farmland ES",
+            "address":"7000 Old Gate Rd",
+            "city":"Rockville",
+            "zip":"20852",
+            "phone":"301-230-5919",
+            "website":"http://www.montgomeryschoolsmd.org/schools/farmlandes"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.1452755671,
+               39.0471937956
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Luxmanor ES",
+            "address":"6201 Tilden La",
+            "city":"Rockville",
+            "zip":"20852",
+            "phone":"301-230-5914",
+            "website":"http://www.montgomeryschoolsmd.org/schools/luxmanores"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.1272246138,
+               39.0448713701
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Bells Mill ES",
+            "address":"8225 Bells Mill Rd",
+            "city":"Potomac",
+            "zip":"20854",
+            "phone":"301-469-1046",
+            "website":"http://www.montgomeryschoolsmd.org/schools/bellsmilles"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.1687400874,
+               39.0320119149
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Potomac ES",
+            "address":"10311 River Rd",
+            "city":"Potomac",
+            "zip":"20854",
+            "phone":"301-469-1042",
+            "website":"http://www.montgomeryschoolsmd.org/schools/potomaces"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.2132952636,
+               39.0216533251
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Seven Locks ES (at Radnor Center)",
+            "address":"7000 Radnor Rd",
+            "city":"Bethesda",
+            "zip":"20817",
+            "phone":"301-469-1038",
+            "website":"http://www.montgomeryschoolsmd.org/schools/sevenlockses"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.114718632,
+               38.9790958064
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Seven Locks ES (Construction)",
+            "address":"9500 Seven Locks Rd",
+            "city":"Bethesda",
+            "zip":"20817",
+            "phone":"301-469-1038",
+            "website":"http://www.montgomeryschoolsmd.org/schools/sevenlockses"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.16113969,
+               39.0123627913
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Ashburton ES",
+            "address":"6314 Lone Oak Dr",
+            "city":"Bethesda",
+            "zip":"20817",
+            "phone":"301-571-6959",
+            "website":"http://www.montgomeryschoolsmd.org/schools/ashburtones"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.1277212211,
+               39.0194442555
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Wyngate ES",
+            "address":"9300 Wadsworth Dr",
+            "city":"Bethesda",
+            "zip":"20817",
+            "phone":"301-571-6979",
+            "website":"http://www.montgomeryschoolsmd.org/schools/wyngatees"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.1282437122,
+               39.0093256299
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Garrett Park ES (Construction)",
+            "address":"4810 Oxford St",
+            "city":"Garrett Park",
+            "zip":"20896",
+            "phone":"301-929-2170",
+            "website":"http://www.montgomeryschoolsmd.org/schools/garrettparkes"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.0965815552,
+               39.0330455094
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Kensington Parkwood ES",
+            "address":"4710 Saul Rd",
+            "city":"Kensington",
+            "zip":"20895",
+            "phone":"301-571-6949",
+            "website":"http://www.montgomeryschoolsmd.org/schools/parkwoodes"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.0949119854,
+               39.0217956579
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Rock Creek Forest ES",
+            "address":"8330 Grubb Rd",
+            "city":"Chevy Chase",
+            "zip":"20815",
+            "phone":"301-650-6410",
+            "website":"http://www.montgomeryschoolsmd.org/schools/rcforestes"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.0512978748,
+               38.9922962885
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Woodlin ES",
+            "address":"2101 Luzerne Ave",
+            "city":"Silver Spring",
+            "zip":"20910",
+            "phone":"301-650-6440",
+            "website":"http://www.montgomeryschoolsmd.org/schools/woodlines"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.0467716274,
+               39.0065373884
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Rosemary Hills ES",
+            "address":"2111 Porter Rd",
+            "city":"Silver Spring",
+            "zip":"20910",
+            "phone":"301-650-6400",
+            "website":"http://www.montgomeryschoolsmd.org/schools/rosemaryhillses"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.0451517607,
+               39.0013306373
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Piney Branch ES",
+            "address":"7510 Maple Ave",
+            "city":"Takoma Park",
+            "zip":"20912",
+            "phone":"301-891-8000",
+            "website":"http://www.montgomeryschoolsmd.org/schools/pineybranches"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.0093788825,
+               38.9821316553
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"East Silver Spring ES",
+            "address":"631 Silver Spring Ave",
+            "city":"Silver Spring",
+            "zip":"20910",
+            "phone":"301-650-6420",
+            "website":"http://www.montgomeryschoolsmd.org/schools/eastsilverspringes"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.0152105919,
+               38.9923950104
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Takoma Park ES",
+            "address":"7511 Holly Ave",
+            "city":"Takoma Park",
+            "zip":"20912",
+            "phone":"301-650-6414",
+            "website":"http://www.montgomeryschoolsmd.org/schools/takomaparkes"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.0124148794,
+               38.9826597502
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"North Chevy Chase ES",
+            "address":"3700 Jones Bridge Rd",
+            "city":"Chevy Chase",
+            "zip":"20815",
+            "phone":"301-657-4950",
+            "website":"http://www.montgomeryschoolsmd.org/schools/nchevychasees"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.073432352,
+               38.9987705251
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Pine Crest ES",
+            "address":"201 Woodmoor Dr",
+            "city":"Silver Spring",
+            "zip":"20901",
+            "phone":"301-649-8066",
+            "website":"http://www.montgomeryschoolsmd.org/schools/pinecrestes"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.0050375472,
+               39.0213110705
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Cresthaven ES",
+            "address":"1234 Cresthaven Dr",
+            "city":"Silver Spring",
+            "zip":"20903",
+            "phone":"301-431-7622",
+            "website":"http://www.montgomeryschoolsmd.org/schools/cresthavenes"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -76.9876315723,
+               39.0274886611
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Oak View ES",
+            "address":"400 E Wayne Ave",
+            "city":"Silver Spring",
+            "zip":"20901",
+            "phone":"301-650-6434",
+            "website":"http://www.montgomeryschoolsmd.org/schools/oakviewes"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.0024156168,
+               39.0045260505
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Highland View ES",
+            "address":"9010 Providence Ave",
+            "city":"Silver Spring",
+            "zip":"20901",
+            "phone":"301-650-6426",
+            "website":"http://www.montgomeryschoolsmd.org/schools/highlandviewes"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.0103578619,
+               39.0042511332
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Montgomery Knolls ES",
+            "address":"807 Daleview Dr",
+            "city":"Silver Spring",
+            "zip":"20901",
+            "phone":"301-431-7667",
+            "website":"http://www.montgomeryschoolsmd.org/schools/knollses"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -76.9931786787,
+               39.0057482268
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Broad Acres ES",
+            "address":"710 Beacon Rd",
+            "city":"Silver Spring",
+            "zip":"20903",
+            "phone":"301-431-7616",
+            "website":"http://www.montgomeryschoolsmd.org/schools/broadacreses"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -76.9851884399,
+               39.0093594505
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"New Hampshire Estates ES",
+            "address":"8720 Carroll Ave",
+            "city":"Silver Spring",
+            "zip":"20903",
+            "phone":"301-431-7607",
+            "website":"http://www.montgomeryschoolsmd.org/schools/nhees"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -76.9923045793,
+               38.9981968148
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Rolling Terrace ES",
+            "address":"705 Bayfield St",
+            "city":"Takoma Park",
+            "zip":"20912",
+            "phone":"301-431-7600",
+            "website":"http://www.montgomeryschoolsmd.org/schools/rollinges"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -76.9972611451,
+               38.995168098
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Highland ES",
+            "address":"3100 Medway St",
+            "city":"Silver Spring",
+            "zip":"20902",
+            "phone":"301-929-2040",
+            "website":"http://www.montgomeryschoolsmd.org/schools/highlandes"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.0639085292,
+               39.0511227
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Oakland Terrace ES",
+            "address":"2720 Plyers Mill Rd",
+            "city":"Silver Spring",
+            "zip":"20902",
+            "phone":"301-929-2161",
+            "website":"http://www.montgomeryschoolsmd.org/schools/oaklandes"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.0573923387,
+               39.0286194203
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Rock View ES",
+            "address":"3901 Denfeld Ave",
+            "city":"Kensington",
+            "zip":"20895",
+            "phone":"301-929-2002",
+            "website":"http://www.montgomeryschoolsmd.org/schools/rockviewes"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.0769950641,
+               39.0395140953
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Viers Mill ES",
+            "address":"11711 Joseph Mill Rd",
+            "city":"Silver Spring",
+            "zip":"20906",
+            "phone":"301-929-2165",
+            "website":"http://www.montgomeryschoolsmd.org/schools/viersmilles"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.0852891291,
+               39.048502748
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Wheaton Woods ES",
+            "address":"4510 Faroe Pl",
+            "city":"Rockville",
+            "zip":"20853",
+            "phone":"301-929-2018",
+            "website":"http://www.montgomeryschoolsmd.org/schools/wheatonwoodses"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.0902208543,
+               39.0682491425
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Weller Road ES",
+            "address":"3301 Weller Rd",
+            "city":"Silver Spring",
+            "zip":"20906",
+            "phone":"301-929-2010",
+            "website":"http://www.montgomeryschoolsmd.org/schools/wellerroades"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.06706298,
+               39.0654368354
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Georgian Forest ES",
+            "address":"3100 Regina Dr",
+            "city":"Silver Spring",
+            "zip":"20906",
+            "phone":"301-460-2170",
+            "website":"http://www.montgomeryschoolsmd.org/schools/georgianforestes"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.0614546922,
+               39.0756428629
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Harmony Hills ES",
+            "address":"13407 Lydia St",
+            "city":"Silver Spring",
+            "zip":"20906",
+            "phone":"301-929-2157",
+            "website":"http://www.montgomeryschoolsmd.org/schools/harmonyhillses"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.0761131795,
+               39.0766059586
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Bel Pre ES",
+            "address":"13801 Rippling Brook Dr",
+            "city":"Silver Spring",
+            "zip":"20906",
+            "phone":"301-460-2145",
+            "website":"http://www.montgomeryschoolsmd.org/schools/belprees"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.0547238659,
+               39.0816042674
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Glen Haven ES",
+            "address":"10900 Inwood Ave",
+            "city":"Silver Spring",
+            "zip":"20902",
+            "phone":"301-649-8051",
+            "website":"http://www.montgomeryschoolsmd.org/schools/glenhavenes"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.0370393611,
+               39.0338425388
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Kemp Mill ES",
+            "address":"411 Sisson St",
+            "city":"Silver Spring",
+            "zip":"20902",
+            "phone":"301-649-8046",
+            "website":"http://www.montgomeryschoolsmd.org/schools/kempmilles"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.0170471225,
+               39.0436381558
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Burnt Mills ES",
+            "address":"11211 Childs St",
+            "city":"Silver Spring",
+            "zip":"20901",
+            "phone":"301-649-8192",
+            "website":"http://www.montgomeryschoolsmd.org/schools/burntmillses"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.0017610753,
+               39.0394753102
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Forest Knolls ES",
+            "address":"10830 Eastwood Ave",
+            "city":"Silver Spring",
+            "zip":"20901",
+            "phone":"301-649-8060",
+            "website":"http://www.montgomeryschoolsmd.org/schools/forestknollses"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.0204193723,
+               39.0333104381
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Glenallan ES",
+            "address":"12520 Heurich Rd",
+            "city":"Silver Spring",
+            "zip":"20902",
+            "phone":"301-929-2014",
+            "website":"http://www.montgomeryschoolsmd.org/schools/glenallanes"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.0413621208,
+               39.0613561538
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Westover ES",
+            "address":"401 Hawkesbury La",
+            "city":"Silver Spring",
+            "zip":"20904",
+            "phone":"301-989-5676",
+            "website":"http://www.montgomeryschoolsmd.org/schools/westoveres"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.0180223922,
+               39.0748642774
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Cannon Road ES (Construction)",
+            "address":"901 Cannon Rd",
+            "city":"Silver Spring",
+            "zip":"20904",
+            "phone":"301-989-5662",
+            "website":"http://www.montgomeryschoolsmd.org/schools/cannonroades"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -76.9941729238,
+               39.0687671595
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"William T Page ES",
+            "address":"13400 Tamarack Rd",
+            "city":"Silver Spring",
+            "zip":"20904",
+            "phone":"301-989-5672",
+            "website":"http://www.montgomeryschoolsmd.org/schools/pagees"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -76.9835905797,
+               39.0749086167
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Jackson Road ES",
+            "address":"900 Jackson Rd",
+            "city":"Silver Spring",
+            "zip":"20904",
+            "phone":"301-989-5650",
+            "website":"http://www.montgomeryschoolsmd.org/schools/jacksonroades"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -76.9918070316,
+               39.0564225207
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Galway ES",
+            "address":"12612 Galway Dr",
+            "city":"Silver Spring",
+            "zip":"20904",
+            "phone":"301-595-2930",
+            "website":"http://www.montgomeryschoolsmd.org/schools/galwayes"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -76.9463103201,
+               39.0639572983
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Greencastle ES",
+            "address":"13611 Robey Rd",
+            "city":"Silver Spring",
+            "zip":"20904",
+            "phone":"301-595-2940",
+            "website":"http://www.montgomeryschoolsmd.org/schools/greencastlees"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -76.9417549222,
+               39.0804194508
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Fairland ES",
+            "address":"14315 Fairdale Rd",
+            "city":"Silver Spring",
+            "zip":"20905",
+            "phone":"301-989-5658",
+            "website":"http://www.montgomeryschoolsmd.org/schools/fairlandes"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -76.9561706003,
+               39.0906439188
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Spark M Matsunaga ES",
+            "address":"13902 Bromfield Road",
+            "city":"Germantown",
+            "zip":"20874",
+            "phone":"301-601-4350",
+            "website":"http://www.montgomeryschoolsmd.org/schools/matsunagaes"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.2927303852,
+               39.1507070468
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Sligo Creek ES",
+            "address":"500 Schuyler Rd",
+            "city":"Silver Spring",
+            "zip":"20910",
+            "phone":"301-562-2722",
+            "website":"http://www.montgomeryschoolsmd.org/schools/sligocreekes"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.0157924626,
+               39.0004315169
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Lakewood ES",
+            "address":"2534 Lindley Ter",
+            "city":"Rockville",
+            "zip":"20853",
+            "phone":"301-279-8465",
+            "website":"http://www.montgomeryschoolsmd.org/schools/lakewoodes"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.1940772943,
+               39.0879540935
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Cold Spring ES",
+            "address":"9201 Falls Chapel Way",
+            "city":"Potomac",
+            "zip":"20854",
+            "phone":"301-279-8480",
+            "website":"http://www.montgomeryschoolsmd.org/schools/coldspringes"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.1888641311,
+               39.0592190026
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Burtonsville ES",
+            "address":"15516 Old Columbia Pik",
+            "city":"Burtonsville",
+            "zip":"20866",
+            "phone":"301-989-5654",
+            "website":"http://www.montgomeryschoolsmd.org/schools/burtonsvillees"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -76.9364158921,
+               39.1113736951
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Stonegate ES",
+            "address":"14811 Notley Rd",
+            "city":"Silver Spring",
+            "zip":"20904",
+            "phone":"301-989-5668",
+            "website":"http://www.montgomeryschoolsmd.org/schools/stonegatees"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.0157475178,
+               39.0995467662
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Cloverly ES",
+            "address":"800 Briggs Chaney Rd",
+            "city":"Silver Spring",
+            "zip":"20904",
+            "phone":"301-989-5770",
+            "website":"http://www.montgomeryschoolsmd.org/schools/cloverlyes"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -76.9942569561,
+               39.1076890075
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Dr Charles R Drew ES",
+            "address":"1200 Swingingdale Dr",
+            "city":"Silver Spring",
+            "zip":"20905",
+            "phone":"301-989-6030",
+            "website":"http://www.montgomeryschoolsmd.org/schools/drewes"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -76.9871082262,
+               39.0916281714
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Sherwood ES",
+            "address":"1401 Olney Sandy Spring Rd",
+            "city":"Sandy Spring",
+            "zip":"20860",
+            "phone":"301-924-3195",
+            "website":"http://www.montgomeryschoolsmd.org/schools/sherwoodes"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.0331164576,
+               39.1495841588
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Brooke Grove ES",
+            "address":"2700 Spartan Rd",
+            "city":"Olney",
+            "zip":"20832",
+            "phone":"301-924-3154",
+            "website":"http://www.montgomeryschoolsmd.org/schools/brookegrovees"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.0505720393,
+               39.1568438213
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Olney ES",
+            "address":"3401 Queen Mary Dr",
+            "city":"Olney",
+            "zip":"20832",
+            "phone":"301-924-3126",
+            "website":"http://www.montgomeryschoolsmd.org/schools/olneyes"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.0682809714,
+               39.1492298699
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Belmont ES",
+            "address":"19528 Olney Mill Rd",
+            "city":"Olney",
+            "zip":"20832",
+            "phone":"301-924-3140",
+            "website":"http://www.montgomeryschoolsmd.org/schools/belmontes"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.0668029032,
+               39.1785814737
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Cashell ES",
+            "address":"17101 Cashell Rd",
+            "city":"Rockville",
+            "zip":"20853",
+            "phone":"301-924-3130",
+            "website":"http://www.montgomeryschoolsmd.org/schools/cashelles"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.0859177884,
+               39.1373140735
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Greenwood ES",
+            "address":"3336 Gold Mine Rd",
+            "city":"Brookeville",
+            "zip":"20833",
+            "phone":"301-924-3145",
+            "website":"http://www.montgomeryschoolsmd.org/schools/greenwoodes"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.0647632594,
+               39.1652320194
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Mill Creek Towne ES",
+            "address":"17700 Park Mill Dr",
+            "city":"Rockville",
+            "zip":"20855",
+            "phone":"301-840-7149",
+            "website":"http://www.montgomeryschoolsmd.org/schools/mctes"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.1538014464,
+               39.146421794
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Candlewood ES",
+            "address":"7210 Osprey Dr",
+            "city":"Rockville",
+            "zip":"20855",
+            "phone":"301-840-7167",
+            "website":"http://www.montgomeryschoolsmd.org/schools/candlewoodes/"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.1470003793,
+               39.1290023776
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Sequoyah ES",
+            "address":"17301 Bowie Mill Rd",
+            "city":"Derwood",
+            "zip":"20855",
+            "phone":"301-840-5335",
+            "website":"http://www.montgomeryschoolsmd.org/schools/sequoyahes"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.1177456873,
+               39.1392853217
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Rosemont ES",
+            "address":"16400 Alden Ave",
+            "city":"Gaithersburg",
+            "zip":"20877",
+            "phone":"301-840-7123",
+            "website":"http://www.montgomeryschoolsmd.org/schools/rosemontes"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.1852514951,
+               39.1251152677
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Summit Hall ES",
+            "address":"101 W Deer Park Rd",
+            "city":"Gaithersburg",
+            "zip":"20877",
+            "phone":"301-840-7127",
+            "website":"http://www.montgomeryschoolsmd.org/schools/summithalles"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.195457283,
+               39.127282494
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Washington Grove ES",
+            "address":"8712 Oakmont St",
+            "city":"Gaithersburg",
+            "zip":"20877",
+            "phone":"301-840-7120",
+            "website":"http://www.montgomeryschoolsmd.org/schools/washingtongrovees"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.1777402319,
+               39.1324887754
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Gaithersburg ES",
+            "address":"35 N Summit Ave",
+            "city":"Gaithersburg",
+            "zip":"20877",
+            "phone":"301-840-7136",
+            "website":"http://www.montgomeryschoolsmd.org/schools/gaithersburges"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.1920511474,
+               39.1435715404
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Whetstone ES",
+            "address":"19201 Thomas Farm Dr",
+            "city":"Gaithersburg",
+            "zip":"20879",
+            "phone":"301-840-7191",
+            "website":"http://www.montgomeryschoolsmd.org/schools/whetstonees"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.1969947933,
+               39.1718688083
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"South Lake ES",
+            "address":"18201 Contour Rd",
+            "city":"Gaithersburg",
+            "zip":"20877",
+            "phone":"301-840-7141",
+            "website":"http://www.montgomeryschoolsmd.org/schools/southlakees"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.1969833619,
+               39.1558163309
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Watkins Mill ES",
+            "address":"19001 Watkins Mill Rd",
+            "city":"Montgomery Village",
+            "zip":"20886",
+            "phone":"301-840-7181",
+            "website":"http://www.montgomeryschoolsmd.org/schools/watkinsmilles"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.2110251862,
+               39.1672209879
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Strawberry Knoll ES",
+            "address":"18820 Strawberry Knoll Rd",
+            "city":"Gaithersburg",
+            "zip":"20879",
+            "phone":"301-840-7112",
+            "website":"http://www.montgomeryschoolsmd.org/schools/strawberryknolles"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.1825348422,
+               39.1658673386
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Flower Hill ES",
+            "address":"18425 Flower Hill Way",
+            "city":"Gaithersburg",
+            "zip":"20879",
+            "phone":"301-840-7161",
+            "website":"http://www.montgomeryschoolsmd.org/schools/flowerhilles"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.1713034798,
+               39.1590075849
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Stedwick ES",
+            "address":"10631 Stedwick Rd",
+            "city":"Montgomery Village",
+            "zip":"20886",
+            "phone":"301-840-7187",
+            "website":"http://www.montgomeryschoolsmd.org/schools/stedwickes"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.2111923449,
+               39.1743636993
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"S Christa Mcauliffe ES",
+            "address":"12500 Wisteria Dr",
+            "city":"Germantown",
+            "zip":"20874",
+            "phone":"301-353-0910",
+            "website":"http://www.montgomeryschoolsmd.org/schools/mcauliffees"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.2609323153,
+               39.167507691
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Fox Chapel ES",
+            "address":"19315 Archdale Rd",
+            "city":"Germantown",
+            "zip":"20876",
+            "phone":"301-353-8055",
+            "website":"http://www.montgomeryschoolsmd.org/schools/foxchapeles"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.2421897485,
+               39.1722018594
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Thurgood Marshall ES",
+            "address":"12260 McDonald Chapel Dr",
+            "city":"Gaithersburg",
+            "zip":"20878",
+            "phone":"301-670-8282",
+            "website":"http://www.montgomeryschoolsmd.org/schools/thurgoodmarshalles"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.2598691505,
+               39.1262200858
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Diamond ES",
+            "address":"4 Marquis Dr",
+            "city":"Gaithersburg",
+            "zip":"20878",
+            "phone":"301-840-7177",
+            "website":"http://www.montgomeryschoolsmd.org/schools/diamondes"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.2389185172,
+               39.1357087649
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Brown Station ES",
+            "address":"851 Quince Orchard Blv",
+            "city":"Gaithersburg",
+            "zip":"20878",
+            "phone":"301-840-7172",
+            "website":"http://www.montgomeryschoolsmd.org/schools/brownstationes"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.2307127305,
+               39.1388830108
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Travilah ES",
+            "address":"13801 DuFief Mill Rd",
+            "city":"North Potomac",
+            "zip":"20878",
+            "phone":"301-840-7153",
+            "website":"http://www.montgomeryschoolsmd.org/schools/travilahes"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.2486226133,
+               39.0824785544
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Rachel Carson ES",
+            "address":"100 Tschiffely Square Rd",
+            "city":"Gaithersburg",
+            "zip":"20878",
+            "phone":"301-840-5333",
+            "website":"http://www.montgomeryschoolsmd.org/schools/rachelcarsones"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.2470359348,
+               39.1170772504
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Darnestown ES",
+            "address":"15030 Turkey Foot Rd",
+            "city":"Gaithersburg",
+            "zip":"20878",
+            "phone":"301-840-7157",
+            "website":"http://www.montgomeryschoolsmd.org/schools/darnestownes"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.2847480232,
+               39.1025388648
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Jones Lane ES",
+            "address":"15110 Jones La",
+            "city":"Gaithersburg",
+            "zip":"20878",
+            "phone":"301-840-8160",
+            "website":"http://www.montgomeryschoolsmd.org/schools/joneslanees"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.2658471483,
+               39.1033700765
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Fields Road ES",
+            "address":"1 School Dr",
+            "city":"Gaithersburg",
+            "zip":"20878",
+            "phone":"301-840-7131",
+            "website":"http://www.montgomeryschoolsmd.org/schools/fieldsroades"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.2152401168,
+               39.118795239
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Stone Mill ES",
+            "address":"14323 Stonebridge View Dr",
+            "city":"North Potomac",
+            "zip":"20878",
+            "phone":"301-279-4975",
+            "website":"http://www.montgomeryschoolsmd.org/schools/stonemilles"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.2144612215,
+               39.0916377183
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Little Bennett ES",
+            "address":"23930 Burdette Forest Rd",
+            "city":"Clarksburg",
+            "zip":"20871",
+            "phone":"301-540-5535",
+            "website":"http://www.montgomeryschoolsmd.org/schools/littlebennettes"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.2753630947,
+               39.246445809
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Sargent Shriver ES",
+            "address":"12518 Greenly Dr",
+            "city":"Silver Spring",
+            "zip":"20906",
+            "phone":"301-929-4426",
+            "website":"http://www.montgomeryschoolsmd.org/schools/shriveres"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.0791590245,
+               39.0615504152
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Roscoe R Nix ES",
+            "address":"1100 Corliss St",
+            "city":"Silver Spring",
+            "zip":"20903",
+            "phone":"301-422-5070",
+            "website":"http://www.montgomeryschoolsmd.org/schools/nixes"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -76.9896552883,
+               39.0168668083
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Great Seneca Creek ES",
+            "address":"13010 Dairymaid Dr",
+            "city":"Germantown",
+            "zip":"20874",
+            "phone":"301-353-8500",
+            "website":"http://www.montgomeryschoolsmd.org/schools/greatsenecacreekes"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.2691896298,
+               39.1522616814
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Arcola ES",
+            "address":"1820 Franwall Ave",
+            "city":"Silver Spring",
+            "zip":"20902",
+            "phone":"301-649-8590",
+            "website":"http://www.montgomeryschoolsmd.org/schools/arcolaes"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.0393881959,
+               39.0455588679
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"William B Gibbs Jr ES",
+            "address":"12615 Royal Crown Dr",
+            "city":"Clarksburg",
+            "zip":"20876",
+            "phone":"301-353-0800",
+            "website":"http://www.montgomeryschoolsmd.org/schools/gibbses/"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.2596251938,
+               39.2057196485
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Cannon Road ES (at Fairland Center)",
+            "address":"13313 Old Columbia Pike",
+            "city":"Silver Spring",
+            "zip":"20904",
+            "phone":"301-989-5662",
+            "website":"http://www.montgomeryschoolsmd.org/schools/cannonroades"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -76.9578934897,
+               39.0746038591
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Beverly Farms ES (at North Lake Center)",
+            "address":"15101 Bauer Dr",
+            "city":"Rockville",
+            "zip":"20853",
+            "phone":"301-469-1050",
+            "website":"http://www.montgomeryschoolsmd.org/schools/beverlyfarmses"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.1040071157,
+               39.1027313861
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Carderock Springs ES",
+            "address":"7401 Persimmon Tree La",
+            "city":"Bethesda",
+            "zip":"20817",
+            "phone":"301-469-1034",
+            "website":"http://www.montgomeryschoolsmd.org/schools/carderockspringses"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.1717600546,
+               38.9832956271
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Downcounty Consortium ES (2012)",
+            "address":"2600 Hayden Dr",
+            "city":"Silver Spring",
+            "zip":"20902",
+            "phone":"301-309-6277",
+            "website":"http://www.montgomeryschoolsmd.org/"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.0545584109,
+               39.0191171311
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Garrett Park ES (at Grosvenor Center)",
+            "address":"5701 Grosvenor La",
+            "city":"Bethesda",
+            "zip":"20814",
+            "phone":"301-929-2170",
+            "website":"http://www.montgomeryschoolsmd.org/schools/garrettparkes"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.1141310594,
+               39.0235338133
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Fallsmead ES",
+            "address":"1800 Greenplace Ter",
+            "city":"Rockville",
+            "zip":"20850",
+            "phone":"301-279-4984",
+            "website":"http://www.montgomeryschoolsmd.org/schools/fallsmeades"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.1765379964,
+               39.0779606451
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Beall ES",
+            "address":"451 Beall Ave",
+            "city":"Rockville",
+            "zip":"20850",
+            "phone":"301-279-8460",
+            "website":"http://www.montgomeryschoolsmd.org/schools/bealles"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.161758368,
+               39.0877753931
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"College Gardens ES",
+            "address":"1700 Yale Pl",
+            "city":"Rockville",
+            "zip":"20850",
+            "phone":"301-279-8470",
+            "website":"http://www.montgomeryschoolsmd.org/schools/collegegardenses"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.1627838116,
+               39.1028873778
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Dufief ES",
+            "address":"15001 DuFief Dr",
+            "city":"Gaithersburg",
+            "zip":"20878",
+            "phone":"301-279-4980",
+            "website":"http://www.montgomeryschoolsmd.org/schools/dufiefes"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.2375326482,
+               39.1018337081
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Maryvale ES",
+            "address":"1000 First St",
+            "city":"Rockville",
+            "zip":"20850",
+            "phone":"301-279-4990",
+            "website":"http://www.montgomeryschoolsmd.org/schools/maryvalees"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.1369670183,
+               39.0912671214
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Meadow Hall ES",
+            "address":"951 Twinbrook Pkwy",
+            "city":"Rockville",
+            "zip":"20851",
+            "phone":"301-279-4988",
+            "website":"http://www.montgomeryschoolsmd.org/schools/meadowhalles"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.1164059038,
+               39.0843521349
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Lucy V Barnsley ES",
+            "address":"14516 Nadine Dr",
+            "city":"Rockville",
+            "zip":"20853",
+            "phone":"301-460-2121",
+            "website":"http://www.montgomeryschoolsmd.org/schools/barnsleyes"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.103587056,
+               39.0941208289
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Twinbrook ES",
+            "address":"5911 Ridgeway Ave",
+            "city":"Rockville",
+            "zip":"20851",
+            "phone":"301-230-5925",
+            "website":"http://www.montgomeryschoolsmd.org/schools/twinbrookes"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.1200953184,
+               39.0687280318
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Rock Creek Valley ES",
+            "address":"5121 Russett Rd",
+            "city":"Rockville",
+            "zip":"20853",
+            "phone":"301-460-2195",
+            "website":"http://www.montgomeryschoolsmd.org/schools/rcvalleyes"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.102608554,
+               39.0832114316
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Brookhaven ES",
+            "address":"4610 Renn St",
+            "city":"Rockville",
+            "zip":"20853",
+            "phone":"301-460-2140",
+            "website":"http://www.montgomeryschoolsmd.org/schools/brookhavenes"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.0925980063,
+               39.0822509877
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Flower Valley ES",
+            "address":"4615 Sunflower Dr",
+            "city":"Rockville",
+            "zip":"20853",
+            "phone":"301-924-3135",
+            "website":"http://www.montgomeryschoolsmd.org/schools/flowervalleyes"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.0930515019,
+               39.1057704102
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Strathmore ES",
+            "address":"3200 Beaverwood La",
+            "city":"Silver Spring",
+            "zip":"20906",
+            "phone":"301-460-2135",
+            "website":"http://www.montgomeryschoolsmd.org/schools/strathmorees"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.0654349871,
+               39.0860669739
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Judith A Resnik ES",
+            "address":"7301 Hadley Farms Dr",
+            "city":"Gaithersburg",
+            "zip":"20879",
+            "phone":"301-670-8200",
+            "website":"http://www.montgomeryschoolsmd.org/schools/resnikes"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.1519858022,
+               39.181576738
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Laytonsville ES",
+            "address":"21401 Laytonsville Rd",
+            "city":"Laytonsville",
+            "zip":"20882",
+            "phone":"301-840-7145",
+            "website":"http://www.montgomeryschoolsmd.org/schools/laytonsvillees"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.1403377171,
+               39.2070466834
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Goshen ES",
+            "address":"8701 Warfield Rd",
+            "city":"Gaithersburg",
+            "zip":"20882",
+            "phone":"301-840-8165",
+            "website":"http://www.montgomeryschoolsmd.org/schools/goshenes"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.1798890434,
+               39.194373374
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Ronald McNair ES",
+            "address":"13881 Hopkins Rd",
+            "city":"Germantown",
+            "zip":"20874",
+            "phone":"301-353-0854",
+            "website":"http://www.montgomeryschoolsmd.org/schools/ronaldmcnaires"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.2905682704,
+               39.1697657621
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Lake Seneca ES",
+            "address":"13600 Wanegarden Dr",
+            "city":"Germantown",
+            "zip":"20874",
+            "phone":"301-353-0929",
+            "website":"http://www.montgomeryschoolsmd.org/schools/lakesenecaes"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.2831202702,
+               39.1832743058
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Clopper Mill ES",
+            "address":"18501 Cinnamon Dr",
+            "city":"Germantown",
+            "zip":"20874",
+            "phone":"301-353-8065",
+            "website":"http://www.montgomeryschoolsmd.org/schools/cloppermilles"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.2616942414,
+               39.1590306504
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Germantown ES",
+            "address":"19110 Liberty Mill Road",
+            "city":"Germantown",
+            "zip":"20874",
+            "phone":"301-353-8050",
+            "website":"http://www.montgomeryschoolsmd.org/schools/germantownes"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.27642324,
+               39.1698143709
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Poolesville ES",
+            "address":"19565 Fisher Ave",
+            "city":"Poolesville",
+            "zip":"20837",
+            "phone":"301-972-7960",
+            "website":"http://www.montgomeryschoolsmd.org/schools/poolesvillees"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.4074075374,
+               39.1440313164
+            ]
+         }
+      },
+      {  
+         "type":"Feature",
+         "properties":{  
+            "level":"ELEMENTARY SCHOOLS",
+            "name":"Monocacy ES",
+            "address":"18801 Barnesville Rd",
+            "city":"Dickerson",
+            "zip":"20842",
+            "phone":"301-972-7990",
+            "website":"http://www.montgomeryschoolsmd.org/schools/monocacyes"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -77.392841199,
+               39.224265906
+            ]
+         }
+      }
+   ]
+}
